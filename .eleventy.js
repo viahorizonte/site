@@ -1,7 +1,7 @@
 "use strict";
 
 const { addPlugins, addFilters, addTransforms } = require("./_11ty");
-const yaml = require("js-yaml");z
+const yaml = require("js-yaml");
 
 module.exports = function(eleventyConfig) {
     addPlugins(eleventyConfig);
