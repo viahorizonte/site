@@ -18,7 +18,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy({ "public/*": "." });
     eleventyConfig.addPassthroughCopy("docs/**/*.svg");
-    
     return {
         dir: {
             includes: "_includes",
