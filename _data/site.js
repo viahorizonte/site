@@ -15,7 +15,7 @@ function calculateUrl() {
 }
 
 module.exports = {
-    title: "ESLint - Pluggable JavaScript linter",
+    title: "Joia - Pluggable JavaScript linter",
     description: "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
     banner: {
         text: null,
