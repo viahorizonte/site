@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joia - Pluggable JavaScript linter</title>
+    <description>A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>ESLint v7.16.0 released</title>
+        <description>&lt;h1 id=&quot;eslint-v7160-released&quot;&gt;ESLint v7.16.0 released&lt;/h1&gt;
+&lt;p&gt;We just pushed ESLint v7.16.0, which is a minor release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release.&lt;/p&gt;
+&lt;h2 id=&quot;enhancements&quot;&gt;Enhancements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/a62ad6f03151358b93b5fede022a30d67310705c&quot;&gt;&lt;code&gt;a62ad6f&lt;/code&gt;&lt;/a&gt; Update: fix false negative of &lt;a href=&quot;/docs/rules/no-extra-parens&quot;&gt;no-extra-parens&lt;/a&gt; with NewExpression (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13930&quot;&gt;#13930&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/f85b4c72668c95c79fdb342b74dbd53d21baa93f&quot;&gt;&lt;code&gt;f85b4c7&lt;/code&gt;&lt;/a&gt; Fix: &lt;a href=&quot;/docs/rules/require-atomic-updates&quot;&gt;require-atomic-updates&lt;/a&gt; false positive across await (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/11954&quot;&gt;#11954&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13915&quot;&gt;#13915&lt;/a&gt;) (buhi)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/301d0c05229dbd6cfb1045d716524e8ec46fa2c1&quot;&gt;&lt;code&gt;301d0c0&lt;/code&gt;&lt;/a&gt; Fix: &lt;a href=&quot;/docs/rules/no-constant-condition&quot;&gt;no-constant-condition&lt;/a&gt; false positives with unary expressions (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13927&quot;&gt;#13927&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/555c128b49ae6d9c100a9f8429416417edb40d13&quot;&gt;&lt;code&gt;555c128&lt;/code&gt;&lt;/a&gt; Fix: false positive with await and ** in &lt;a href=&quot;/docs/rules/no-extra-parens&quot;&gt;no-extra-parens&lt;/a&gt; (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/12739&quot;&gt;#12739&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13923&quot;&gt;#13923&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/ab240d49833b4e6e594667c1abe5b0caa8a9cf70&quot;&gt;&lt;code&gt;ab240d4&lt;/code&gt;&lt;/a&gt; Fix: &lt;a href=&quot;/docs/rules/prefer-exponentiation-operator&quot;&gt;prefer-exponentiation-operator&lt;/a&gt; invalid autofix with await (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13924&quot;&gt;#13924&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/d93c9350361d2aa1a1976c553e47ab399e51e8c9&quot;&gt;&lt;code&gt;d93c935&lt;/code&gt;&lt;/a&gt; Docs: update JSON Schema links (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13936&quot;&gt;#13936&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/924768377a4935a95a6ff3866f9545a5a6178b53&quot;&gt;&lt;code&gt;9247683&lt;/code&gt;&lt;/a&gt; Docs: Remove for deleted npm run profile script (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13931&quot;&gt;#13931&lt;/a&gt;) (Brandon Mills)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/2124e1b5dad30a905dc26bde9da472bf622d3f50&quot;&gt;&lt;code&gt;2124e1b&lt;/code&gt;&lt;/a&gt; Docs: Fix wrong rule name (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13913&quot;&gt;#13913&lt;/a&gt;) (noisyboy25)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/26fc12f88109af9d4081bf0e16364c411bce3009&quot;&gt;&lt;code&gt;26fc12f&lt;/code&gt;&lt;/a&gt; Docs: Update README team and sponsors (ESLint Jenkins)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;dependency-upgrades&quot;&gt;Dependency Upgrades&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/8d0c93a7ef9449c7b7d082bbb4b7d8465b0d6bac&quot;&gt;&lt;code&gt;8d0c93a&lt;/code&gt;&lt;/a&gt; Upgrade: table@6.0.4 (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13920&quot;&gt;#13920&lt;/a&gt;) (Rouven Weßling)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;chores&quot;&gt;Chores&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/dc7691103554a99bdb2142561cb507f50f547e3b&quot;&gt;&lt;code&gt;dc76911&lt;/code&gt;&lt;/a&gt; Chore: Add .pre-commit-hooks.yaml file (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13628&quot;&gt;#13628&lt;/a&gt;) (Álvaro Mondéjar)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>2020-12-18</pubDate>
+        <link>/blog/2020/12/eslint-v7.16.0-released</link>
+        <guid isPermaLink="true">/blog/2020/12/eslint-v7.16.0-released</guid>
+      </item>
+    
+      <item>
+        <title>Automattic becomes ESLint&apos;s first platinum sponsor</title>
+        <description>&lt;h1 id=&quot;automattic-becomes-eslints-first-platinum-sponsor&quot;&gt;Automattic becomes ESLint&apos;s first platinum sponsor&lt;/h1&gt;
+&lt;p class=&quot;text-center&quot; style=&quot;margin-top: 100px; margin-bottom: 100px&quot;&gt;
+    &lt;a href=&quot;https://automattic.com/&quot; title=&quot;Automattic&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;lazyload&quot; width=&quot;400&quot; data-src=&quot;/assets/img/logos/automattic.svg&quot; alt=&quot;Indeed&quot; src=&quot;/assets/img/logos/automattic.svg&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;We are happy to share that &lt;a href=&quot;https://automattic.com&quot;&gt;Automattic&lt;/a&gt; has become ESLint&apos;s first platinum sponsor, donating $2,000 each month for the ongoing maintenance and development of ESLint! Automattic is the company behind &lt;a href=&quot;https://wordpress.com&quot;&gt;WordPress.com&lt;/a&gt;, &lt;a href=&quot;https://woocommerce.com&quot;&gt;WooCommerce&lt;/a&gt;, &lt;a href=&quot;https://jetpack.com&quot;&gt;Jetpack&lt;/a&gt;, &lt;a href=&quot;https://simplenote.com/&quot;&gt;Simplenote&lt;/a&gt;, &lt;a href=&quot;https://longreads.com/&quot;&gt;Longreads&lt;/a&gt;, &lt;a href=&quot;https://vaultpress.com/&quot;&gt;VaultPress&lt;/a&gt;, &lt;a href=&quot;https://akismet.com/&quot;&gt;Akismet&lt;/a&gt;, &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;, &lt;a href=&quot;https://crowdsignal.com/&quot;&gt;Crowdsignal&lt;/a&gt;, &lt;a href=&quot;https://cloudup.com/&quot;&gt;Cloudup&lt;/a&gt;, &lt;a href=&quot;https://www.tumblr.com&quot;&gt;Tumblr&lt;/a&gt;, and more. Further, Automattic believes  in open source and makes a lot of their work &lt;a href=&quot;https://github.com/Automattic&quot;&gt;public on GitHub&lt;/a&gt; and available via the GPL.&lt;/p&gt;
+&lt;p&gt;Here&apos;s what Automattic engineers told us about ESLint:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;ESLint helps us keep our code consistent and clean across hundreds of developers.&amp;quot;
+&lt;br&gt;-- Marcus Kazmierczak, Engineering Team Lead, Automattic&lt;/p&gt;
+&lt;p&gt;&amp;quot;ESLint lets me apply my brain to more important things.&amp;quot;
+&lt;br&gt;-- Darren Ethier, Engineering Team Lead, Automattic&lt;/p&gt;
+&lt;p&gt;&amp;quot;Unlike my variables, ESLint is always used.&amp;quot;
+&lt;br&gt;-- Nadir Seghir, JavaScript Engineer, Automattic&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ESLint is honored and excited to be the first project that Automattic has sponsored through Open Collective. Support from companies like Automattic is why ESLint has been able to grow with the JavaScript ecosystem even after seven years in a rapidly changing landscape.&lt;/p&gt;
+&lt;p&gt;A special thanks to &lt;a href=&quot;https://wptavern.com/author/sarah&quot;&gt;Sarah Gooding&lt;/a&gt; of &lt;a href=&quot;https://wptavern.com/&quot;&gt;WPTavern&lt;/a&gt; for her excellent article, &lt;a href=&quot;https://wptavern.com/eslint-maintainers-share-challenges-of-funding-open-source-utilities-through-sponsorship&quot;&gt;ESLint Maintainers Share Challenges of Funding Open Source Utilities through Sponsorship &lt;/a&gt;. We heard from Automattic that it was this article that put ESLint on the team&apos;s radar. We are grateful both for the coverage and the insights shared about funding open source projects.&lt;/p&gt;
+</description>
+        
+        <pubDate>2020-12-10</pubDate>
+        <link>/blog/2020/12/automattic-platinum-sponsor-eslint</link>
+        <guid isPermaLink="true">/blog/2020/12/automattic-platinum-sponsor-eslint</guid>
+      </item>
+    
+      <item>
+        <title>ESLint v7.15.0 released</title>
+        <description>&lt;h1 id=&quot;eslint-v7150-released&quot;&gt;ESLint v7.15.0 released&lt;/h1&gt;
+&lt;p&gt;We just pushed ESLint v7.15.0, which is a minor release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release.&lt;/p&gt;
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;The new &lt;a href=&quot;/docs/rules/no-unsafe-optional-chaining&quot;&gt;no-unsafe-optional-chaining&lt;/a&gt; rule catches cases where short-circuiting &lt;code&gt;?.&lt;/code&gt; in an expression can cause a &lt;code&gt;TypeError&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/683ad00c41e1ae4d889deff82b2a94318e8c2129&quot;&gt;&lt;code&gt;683ad00&lt;/code&gt;&lt;/a&gt; New: &lt;a href=&quot;/docs/rules/no-unsafe-optional-chaining&quot;&gt;no-unsafe-optional-chaining&lt;/a&gt; rule (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13431&quot;&gt;#13431&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13859&quot;&gt;#13859&lt;/a&gt;) (YeonJuan)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/cbc57fb7d07c00663ed5781f5e6bc8f534cc2d76&quot;&gt;&lt;code&gt;cbc57fb&lt;/code&gt;&lt;/a&gt; Fix: &lt;a href=&quot;/docs/rules/one-var&quot;&gt;one-var&lt;/a&gt; autofixing for export (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13834&quot;&gt;#13834&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13891&quot;&gt;#13891&lt;/a&gt;) (Anix)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/110cf962d05625a8a1bf7b5f4ec2194db150eb32&quot;&gt;&lt;code&gt;110cf96&lt;/code&gt;&lt;/a&gt; Docs: Fix a broken link in working-with-rules.md (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13875&quot;&gt;#13875&lt;/a&gt;) (Anton Niklasson)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;dependency-upgrades&quot;&gt;Dependency Upgrades&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/5c11aabbe8249aeb8cad29bc6a33fc20c8c683ef&quot;&gt;&lt;code&gt;5c11aab&lt;/code&gt;&lt;/a&gt; Upgrade: @eslint/esintrc and espree for bug fixes (refs &lt;a href=&quot;https://github.com/eslint/eslint/issues/13878&quot;&gt;#13878&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13908&quot;&gt;#13908&lt;/a&gt;) (Brandon Mills)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/0eb7957e27fd521317bd5c8479ce7abc1399169c&quot;&gt;&lt;code&gt;0eb7957&lt;/code&gt;&lt;/a&gt; Upgrade: file-entry-cache@6.0.0 (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13877&quot;&gt;#13877&lt;/a&gt;) (Rouven Weßling)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>2020-12-05</pubDate>
+        <link>/blog/2020/12/eslint-v7.15.0-released</link>
+        <guid isPermaLink="true">/blog/2020/12/eslint-v7.15.0-released</guid>
+      </item>
+    
+      <item>
+        <title>ESLint v7.14.0 released</title>
+        <description>&lt;h1 id=&quot;eslint-v7140-released&quot;&gt;ESLint v7.14.0 released&lt;/h1&gt;
+&lt;p&gt;We just pushed ESLint v7.14.0, which is a minor release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release.&lt;/p&gt;
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;/docs/rules/no-nonoctal-decimal-escape&quot;&gt;no-nonoctal-decimal-escape&lt;/a&gt; rule has been added. This rule disallows the use of legacy escape sequences &lt;code&gt;\8&lt;/code&gt; and &lt;code&gt;\9&lt;/code&gt; in string literals.&lt;/p&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/98c00c41d2aecb3a990393d430694f4ce6b47de5&quot;&gt;&lt;code&gt;98c00c4&lt;/code&gt;&lt;/a&gt; New: Add &lt;a href=&quot;/docs/rules/no-nonoctal-decimal-escape&quot;&gt;no-nonoctal-decimal-escape&lt;/a&gt; rule (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13765&quot;&gt;#13765&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13845&quot;&gt;#13845&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;enhancements&quot;&gt;Enhancements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/5f0907399a9666dec78c74384c8969c01483c30e&quot;&gt;&lt;code&gt;5f09073&lt;/code&gt;&lt;/a&gt; Update: fix &apos;skip&apos; options in &lt;a href=&quot;/docs/rules/no-irregular-whitespace&quot;&gt;no-irregular-whitespace&lt;/a&gt; (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13852&quot;&gt;#13852&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13853&quot;&gt;#13853&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/2004b7ecd3db0d4e7376cc3344246f7b9ada5801&quot;&gt;&lt;code&gt;2004b7e&lt;/code&gt;&lt;/a&gt; Fix: enable debug logs for @eslint/eslintrc (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13850&quot;&gt;#13850&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13861&quot;&gt;#13861&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/d2239a1fdec452e24ede04e990d16d42516fa538&quot;&gt;&lt;code&gt;d2239a1&lt;/code&gt;&lt;/a&gt; Fix: &lt;a href=&quot;/docs/rules/no-useless-constructor&quot;&gt;no-useless-constructor&lt;/a&gt; crash on bodyless constructor (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13830&quot;&gt;#13830&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13842&quot;&gt;#13842&lt;/a&gt;) (Ari Perkkiö)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/1861b4086f1018f43ab19744d866d5da986c500d&quot;&gt;&lt;code&gt;1861b40&lt;/code&gt;&lt;/a&gt; Docs: correct the &lt;a href=&quot;/docs/rules/function-call-argument-newline&quot;&gt;function-call-argument-newline&lt;/a&gt; &apos;default&apos; descriptions (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13866&quot;&gt;#13866&lt;/a&gt;) (Trevin Hofmann)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/eda0aa18498dd85eb618873e8e0f4ac97032cfca&quot;&gt;&lt;code&gt;eda0aa1&lt;/code&gt;&lt;/a&gt; Docs: &lt;a href=&quot;/docs/rules/no-restricted-imports&quot;&gt;no-restricted-imports&lt;/a&gt; is only for static imports (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13863&quot;&gt;#13863&lt;/a&gt;) (Robat Williams)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/042ae44682a8a6c5037d920689124e2304056dd8&quot;&gt;&lt;code&gt;042ae44&lt;/code&gt;&lt;/a&gt; Docs: Fix JS syntax and doc URL in working-with-custom-formatters.md (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13828&quot;&gt;#13828&lt;/a&gt;) (Raphael LANG)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;chores&quot;&gt;Chores&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/95d2fe6057498fc1cc2193d28c8c2d1593224b33&quot;&gt;&lt;code&gt;95d2fe6&lt;/code&gt;&lt;/a&gt; Chore: remove eslint comment from &lt;a href=&quot;/docs/rules/no-octal-escape&quot;&gt;no-octal-escape&lt;/a&gt; tests (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13846&quot;&gt;#13846&lt;/a&gt;) (Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/038dc73c99ae68eae2035ef303f3a947053c8f05&quot;&gt;&lt;code&gt;038dc73&lt;/code&gt;&lt;/a&gt; Chore: Test on Node.js 15 (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13844&quot;&gt;#13844&lt;/a&gt;) (Brandon Mills)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>2020-11-20</pubDate>
+        <link>/blog/2020/11/eslint-v7.14.0-released</link>
+        <guid isPermaLink="true">/blog/2020/11/eslint-v7.14.0-released</guid>
+      </item>
+    
+      <item>
+        <title>ESLint v7.13.0 released</title>
+        <description>&lt;h1 id=&quot;eslint-v7130-released&quot;&gt;ESLint v7.13.0 released&lt;/h1&gt;
+&lt;p&gt;We just pushed ESLint v7.13.0, which is a minor release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release.&lt;/p&gt;
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://eslint.org/docs/developer-guide/working-with-rules#per-rule-performance&quot;&gt;Per-rule performance&lt;/a&gt; metrics can now show more than ten rules. Set the &lt;code&gt;TIMING&lt;/code&gt; environment variable to the desired list size or &lt;code&gt;all&lt;/code&gt; to display all rules.&lt;/p&gt;
+&lt;pre class=&quot;hljs highlight-bash&quot;&gt;&lt;code&gt;$ TIMING=50 eslint lib
+
+$ TIMING=100 eslint lib
+
+$ TIMING=all eslint lib
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/254e00fea8745ff5a8bcc8cb874fcfd02996d81b&quot;&gt;&lt;code&gt;254e00f&lt;/code&gt;&lt;/a&gt; New: Configurable List Size For Per-Rule Performance Metrics (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13812&quot;&gt;#13812&lt;/a&gt;) (Bryan Mishkin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/6c3c710ade7cd8654990f1adb55b58f038eab92d&quot;&gt;&lt;code&gt;6c3c710&lt;/code&gt;&lt;/a&gt; Docs: fix broken url in docs (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13815&quot;&gt;#13815&lt;/a&gt;) (SaintMalik)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/fb6fcbfe0a8c41b92f0a33ab90f159037bd195e2&quot;&gt;&lt;code&gt;fb6fcbf&lt;/code&gt;&lt;/a&gt; Docs: Fix reference to Code of Conduct (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13797&quot;&gt;#13797&lt;/a&gt;) (Tobias Nießen)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>2020-11-06</pubDate>
+        <link>/blog/2020/11/eslint-v7.13.0-released</link>
+        <guid isPermaLink="true">/blog/2020/11/eslint-v7.13.0-released</guid>
+      </item>
+    
+      <item>
+        <title>ESLint v7.12.1 released</title>
+        <description>&lt;h1 id=&quot;eslint-v7121-released&quot;&gt;ESLint v7.12.1 released&lt;/h1&gt;
+&lt;p&gt;We just pushed ESLint v7.12.1, which is a patch release upgrade of ESLint. This release fixes several bugs found in the previous release.&lt;/p&gt;
+&lt;h2 id=&quot;bug-fixes&quot;&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/aeef485dc790571b1a82ac09904329e0226b66a9&quot;&gt;&lt;code&gt;aeef485&lt;/code&gt;&lt;/a&gt; Fix: Pass internal config paths in FileEnumerator default (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13789&quot;&gt;#13789&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13792&quot;&gt;#13792&lt;/a&gt;) (Brandon Mills)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;dependency-upgrades&quot;&gt;Dependency Upgrades&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eslint/eslint/commit/08f33e8b9a353c3183be6f937785db7a30fb90eb&quot;&gt;&lt;code&gt;08f33e8&lt;/code&gt;&lt;/a&gt; Upgrade: @eslint/eslintrc to fix rule schema validation (fixes &lt;a href=&quot;https://github.com/eslint/eslint/issues/13793&quot;&gt;#13793&lt;/a&gt;) (&lt;a href=&quot;https://github.com/eslint/eslint/issues/13794&quot;&gt;#13794&lt;/a&gt;) (Brandon Mills)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>2020-10-26</pubDate>
+        <link>/blog/2020/10/eslint-v7.12.1-released</link>
+        <guid isPermaLink="true">/blog/2020/10/eslint-v7.12.1-released</guid>
+      </item>
+    
+  </channel>
+</rss>
+
