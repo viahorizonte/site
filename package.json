@@ -1,17 +1,17 @@
 {
-  "name": "eslint-website",
+  "name": "vhz-website",
   "private": true,
   "version": "1.0.0",
-  "description": "The codebase for the ESLint website (eslint.org)",
+  "description": "The codebase for the vhz website",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eslint/website.git"
+    "url": "git+https://github.com/viahorizonte/site.git"
   },
   "bugs": {
-    "url": "https://github.com/eslint/website/issues"
+    "url": "https://github.com/viahorizonte/site/issues"
   },
-  "homepage": "https://github.com/eslint/website#readme",
+  "homepage": "https://github.com/viahorizonte/site#readme",
   "engines": {
     "node": ">=12.0.0"
   },
