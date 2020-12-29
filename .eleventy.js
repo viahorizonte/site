@@ -1,7 +1,7 @@
 "use strict";
 
 const { addPlugins, addFilters, addTransforms } = require("./_11ty");
-const yaml = require("js-yaml");
+const yaml = require("js-yaml");z
 
 module.exports = function(eleventyConfig) {
     addPlugins(eleventyConfig);
@@ -18,7 +18,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy({ "public/*": "." });
     eleventyConfig.addPassthroughCopy("docs/**/*.svg");
-
+    
     return {
         dir: {
             includes: "_includes",
