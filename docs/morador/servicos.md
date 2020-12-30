@@ -9,33 +9,33 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/servico
 
 Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
-## Internet
+### Internet
 
 - Vec Telecom
 - R2 Telecom
 
-## Telefone fixo
+### Telefone fixo
 
 - R2 Telecom
 
-## Telefone móvel
+### Telefone móvel
 
 - Vivo
 - Claro
 
-## Mini Mercado
+### Mini Mercado
 
 - Market4U
 
-## TV
+### TV
 
 - Claro TV
 - SKY
 
-## Energia
+### Energia
 
 - Enel
 
-## Treino Funcional e Personal
+### Treino Funcional e Personal
 
 - Professor Bruno 503-A
