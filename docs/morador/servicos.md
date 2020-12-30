@@ -1,22 +1,41 @@
 ---
-title: Chegando
+title: Serviços
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/servicos.md
 
 ---
 
-# Texto
+# Serviços
 
-Bloco de Texto
+Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
-## Listas
+## Internet
 
-Lista Y
+- Vec Telecom
+- R2 Telecom
 
-* Item 1
-* Item 2
+## Telefone fixo
 
-Lista Z
+- R2 Telecom
 
-* Item 1
-* Item 2
+## Telefone móvel
+
+- Vivo
+- Claro
+
+## Mini Mercado
+
+- Market4U
+
+## TV
+
+- Claro TV
+- SKY
+
+## Energia
+
+- Enel
+
+## Treino Funcional e Personal
+
+- Professor Bruno 503-A
