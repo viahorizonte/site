@@ -5,18 +5,8 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/seguran
 
 ---
 
-# Texto
+# Segurança no Alpha
 
-Bloco de Texto
+Caso precise acionar o veículo que fica circulando pelo Alphaville ligue na Associação Geral no telefone 4063-6462.
 
-## Listas
-
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+A Associação geral é responsável pela segurança externa dos condomínios Alpha.
