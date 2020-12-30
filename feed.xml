@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joia - Pluggable JavaScript linter</title>
-    <description>A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.</description>
+    <title>Via Horizonte - Site da comunidade</title>
+    <description>Site da comunidade do edifício Via Horizonte no Alphaville Brasilia</description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
