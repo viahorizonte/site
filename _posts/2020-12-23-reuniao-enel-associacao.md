@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Reuniao Associacao Enel
+title: Enel grupo de trabalho
 tags:
   - release
   - patch
 ---
-# Reuniao Associacao Enel
+# Reunião Associação sobre Enel
 
-A associação formou comite para tratar dos problemas de energia do complexo.
+A associação formou comitê para tratar dos problemas de energia do complexo.
