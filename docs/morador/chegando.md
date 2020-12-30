@@ -41,6 +41,13 @@ Ambos funcionam bem, alguns moradores contratam ambas para ter  redundância do 
 
 Ambos entregam fibra, contudo, a fibra em alguns pontos é aérea e ocorrem rompimentos em temporais, isso é comum, infelizmente.
 
+## Armário de aço para garagem
+
+A EBM já instalou alguns aqui no prédio, fica a sugestão:
+
+- 61-3040-2317
+- 61-4102-9439
+
 ## Celular
 
 A operadora Vivo funciona bem, inclusive seu 4G em todo o complexo, é a operadora recomendada para a região.
