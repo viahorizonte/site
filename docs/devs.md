@@ -1,22 +1,20 @@
 ---
-title: Chegando
+title: devs
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/devs.md
 
 ---
 
-# Texto
+## Projeto VHZ
 
-Bloco de Texto
+Esse site foi construído para ajudar a comunidade Via Horizonte, trazendo informações úteis para seus moradores.
 
-## Listas
+## Equipe de desenvolvedores
 
-Lista Y
+- Guto Carvalho (guto@viahorizonte.life)
+- Paulo Faria (paulo@viahorizonte.life)
+- Bruno Matos (bruno@viahorizonte.life)
 
-* Item 1
-* Item 2
+Se quiser maiores informações, entre em contato:
 
-Lista Z
-
-* Item 1
-* Item 2
+- contato@viahorizonte.life
