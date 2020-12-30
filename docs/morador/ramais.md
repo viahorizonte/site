@@ -1,22 +1,37 @@
 ---
 title: Chegando
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/ramais.md
 
 ---
 
-# Texto
+## Ramais internos
 
-Bloco de Texto
+| Ramal                    | Número |
+| -------------------------| ------:|
+| Academia S2              | 24     |
+| Brinquedoteca            | 28     |
+| Churrasqueiras           | 29     |
+| Espaço Gourmet           | 27     |
+| Recepção                 | 1      |
+| Portaria Torre A         | 29     |
+| Portaria Torre B         | 29     |
+| Sala de estudos          | 25     | 
+| Sala de segurança        | 21     |
+| Administração            | 23     |
+| Salão de festas Infantil | 22     | 
+| Salão de festas Adulto   | 23     |
 
-## Listas
+### Telefone do Via Horizonte
 
-Lista Y
+- 61-3771-7524
 
-* Item 1
-* Item 2
+### Ligando entre apartamentos
 
-Lista Z
+Ligando para o Bloco A
 
-* Item 1
-* Item 2
+- Digite 1 + número
+
+Ligando para o Bloco B
+
+- Digite 2 + número
