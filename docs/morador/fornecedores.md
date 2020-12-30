@@ -7,22 +7,24 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/fornece
 
 # Fornecedores
 
-Aqui vamos manter uma lista de fornecedores em contante construção e atualização.
+Aqui vamos manter uma lista de fornecedores – recomendados.
 
-## Tela de proteção
+A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e recomendar só os melhores :)
 
-## Armário de garagem
+### Tela de proteção
 
-## Instalação de ar-condicionado
+### Armário de garagem
 
-## Eletricistas
+### Instalação de ar-condicionado
 
-## Encanadores e bombeiros hidráulicos
+### Eletricistas
 
-## Pedreiros
+### Encanadores e bombeiros hidráulicos
 
-## Cortinas
+### Pedreiros
 
-## Vidraçarias
+### Cortinas
 
-## Marcenarias
+### Vidraçarias
+
+### Marcenarias
