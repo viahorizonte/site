@@ -15,8 +15,8 @@ function calculateUrl() {
 }
 
 module.exports = {
-    title: "Joia - Pluggable JavaScript linter",
-    description: "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+    title: "Via Horizonte - Site da comunidade",
+    description: "Site da comunidade do edifício Via Horizonte no Alphaville Brasilia",
     banner: {
         text: null,
         foregroundColor: "#ffffff",
@@ -26,8 +26,6 @@ module.exports = {
     links: {
         chat: "/chat",
         codeOfConduct: "/conduct",
-        mailingList: "https://groups.google.com/group/eslint",
-        github: "https://github.com/eslint/eslint",
-        twitter: "https://twitter.com/geteslint"
+        github: "https://github.com/viahorizonte/site",
     }
 };
