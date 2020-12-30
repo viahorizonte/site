@@ -26,6 +26,6 @@ module.exports = {
     links: {
         chat: "/chat",
         codeOfConduct: "/conduct",
-        github: "https://github.com/viahorizonte/site",
+        github: "https://github.com/viahorizonte/site"
     }
 };
