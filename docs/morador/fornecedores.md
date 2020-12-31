@@ -11,6 +11,10 @@ Aqui vamos manter uma lista de fornecedores que já fizeram serviço no prédio 
 
 A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e recomendar só os melhores :)
 
+### Chaveiro
+
+- Chaveiro ABC, 99942-9317
+
 ### Tela de proteção
 
 - INOVA REDES, 61-98271-7265

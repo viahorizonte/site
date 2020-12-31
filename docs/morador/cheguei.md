@@ -11,9 +11,9 @@ Agora que chegou é hora de aproveitar sua nova casa e fazer novas amizades :)
 
 Aproveite a piscina, academia e o calçadão para fazer uma excelente caminhada e cuidar de sua saúde!
 
-## Dicas 901 A
+## Dicas da Família 901.A
 
-Vamos a algumas dicas simples – curadoria do pessoal do 901-A – para quem acaba de chegar ;)
+Vamos a algumas dicas simples – curadoria do pessoal do 901.A – para quem acaba de chegar ;)
 
 ### Jardim ABC
 
@@ -26,7 +26,7 @@ Destaques em nossa opinião:
 - Lava Jato Champiom
 - Supermercado Cristal
 - Açougue Bom Jesus
-- Chaveiro ABC
+- Chaveiro ABC (trocamos os segredos da porta assim que mudamos)
 
 ### Internet Fibra
 
@@ -41,15 +41,23 @@ A R2 não dá acesso ao modem, não tem IP Fixo e suas velocidades de UPLOAD sã
 
 As velocidades de DOWNLOAD são equivalentes.
 
-Ambos funcionam bem, alguns moradores contratam ambas para ter  redundância do LINK – vale a pena.
+Ambos funcionam bem, alguns moradores contratam ambas para ter  redundância do LINK – vale a pena. (nós usamos)
 
 Ambos entregam fibra, contudo, a fibra em alguns pontos é aérea e ocorrem rompimentos em temporais, isso é comum, infelizmente.
 
 ### Armário de aço para garagem
 
-A EBM já instalou alguns aqui no prédio no bloco A, o 503-A recomenda!
+A EBM já instalou alguns aqui no prédio no bloco A, o 503-A recomenda.
 
 - 61-3040-2317 e 61-4102-9439
+
+### Tela de proteção
+
+A INOVA REDES atende muito bem e fez toda proteção da casa, recomendamos 61-98271-7265.
+
+### Marceneiro
+
+O Bruno fez os armários do 1005 B, ficaram ótimos, contato 61-98405-4830.
 
 ### Celular
 
@@ -69,17 +77,17 @@ No ABC tem a padaria chamada OXENTE no centro, sendo uma segunda opção.
 
 O supermercado Rio Verde também oferece uma padaria interna.
 
-Se você estiver animado(a) pode ir na Cidade Ocidental (cerca de 25 KM) nas padarias "Padre Cícero" e "Francisco", tem coisas bem em conta como paes gorument, queijos e kits que podem durar a semana toda, vale a pena e muita gente do prédio vai lá comprar para a semana.
+Se você estiver animado(a) pode ir na Cidade Ocidental (cerca de 25 KM) nas padarias "Padre Cícero" e "Francisco", tem coisas bem em conta como paes Gourmet, queijos e kits que podem durar a semana toda, vale a pena e muita gente do prédio vai lá comprar quitutes para a semana.
 
 ### Lava jato
 
-O lava jato Champion – próximo do mercado Cristal – oferece um serviço de buscar e devolver o carro aqui no Via Horizonte, um dos sócios é morador do complexo. O atendimento é excelente!
+O lava jato Champion – próximo do mercado Cristal – oferece um serviço de buscar e devolver o carro aqui no Via Horizonte, um dos sócios é morador do prédio. O atendimento é excelente!
 
 - 61-9955-4700 (renan)
 
 ### Restaurante
 
-O Dona Bia é sem dúvida o mais bonitinho da cidade, ótima comida e entrega aqui no Via Horizonte!
+O Dona Bia é sem dúvida o mais bonitinho da cidade, oferece ótima comida e entrega aqui no Via Horizonte!
 
 - 61-99843-5987
 - 61-3227-2145
@@ -92,7 +100,7 @@ A Pizza ABC é uma excelente opção e entrega no prédio.
 
 ## Lista completa de fornecedores
 
-As dicas acima foram oferecidas pelo 901-A, mas existem diversos serviços e fornecedores na região.
+As dicas acima foram oferecidas pelo 901.A, mas existem diversos serviços e fornecedores na região.
 
 Acesse a lista completa – em constante construção.
 
