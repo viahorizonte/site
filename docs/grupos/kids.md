@@ -1,22 +1,48 @@
 ---
-title: Chegando
+title: Grupo Alpha Kids
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/kids.md
 
 ---
 
-# Texto
+## Acesso grupo Alpha Kids
 
-Bloco de Texto
+Link direto para entrar no grupo.
 
-## Listas
+- https://chat.whatsapp.com/HnQ6tTJVuz54iCRoTd74il
 
-Lista Y
+## Objetivos do grupo
 
-* Item 1
-* Item 2
+- Apromixar moradores e consolidar a comunidade de crianças do Alpha
+- Organizar brincadeiras e confraternizações
 
-Lista Z
+### Código de conduta
 
-* Item 1
-* Item 2
+Atenção esse grupo é MODERADO.
+
+#### Quem pode participar?
+
+- Todos os moradores do Alpha, sem limite por unidade ou idade
+
+#### Tópicos não permitidos
+
+- Conversas e imagens sobre religião
+- Conversas e imagens sobre futebol
+- Conversas e imagens sobre política
+- Conversas e imagens sobre conteúdo adulto/sexual
+- SPAM de qualquer tipo
+
+#### Divulgações
+
+- Para anúncios de produtos PREFIRA o grupo ALPHA DESAPEGA
+- Para anúncios de fornecedores PREFIRA o grupo ALPHA FONECEDORES
+
+No mais contamos com o seu bom senso, desde que não seja algo repetitivo manda ver!
+
+#### Comportamento não permitido
+
+- Provocações e ofensas de qualquer tipo, racismo, sexismo, misoginia, homofobia e bullying.
+
+#### Administradores
+
+- Guto

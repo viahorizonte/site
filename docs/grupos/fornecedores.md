@@ -1,22 +1,18 @@
 ---
-title: Chegando
+title: Grupo Alpha Fornecedores
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/fornecedores.md
 
 ---
 
-# Texto
+## Acesso grupo Desapega
 
-Bloco de Texto
+Solicite acesso a administradora Brenda (61-98290-3999)
 
-## Listas
+## Objetivos do grupo
 
-Lista Y
+- Troca de informaçõeas sobre fornecedores que atendem o Alpha
 
-* Item 1
-* Item 2
+#### Administradores
 
-Lista Z
-
-* Item 1
-* Item 2
+- Brenda, Elias

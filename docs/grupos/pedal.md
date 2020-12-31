@@ -11,15 +11,15 @@ Link direto para entrar no grupo.
 
 - https://chat.whatsapp.com/IFTvfYWu7AT5JaLx7Ly9BF
 
-### Código de conduta
-
-Atenção esse grupo é MODERADO.
-
-#### Objetivos do grupo
+## Objetivos do grupo
 
 - Apromixar moradores e consolidar a comunidade de PEDAL do Alpha
 - Postar dicas sobre bikes
 - Organizar pedais e confraternizações do grupo
+
+### Código de conduta
+
+Atenção esse grupo é MODERADO.
 
 #### Quem pode participar?
 

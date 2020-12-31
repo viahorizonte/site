@@ -1,22 +1,19 @@
 ---
-title: Chegando
+title: Grupo Alpha Carona e Transito
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/carona.md
 
 ---
 
-# Texto
+## Acesso grupo Alpha Carona e Transito
 
-Bloco de Texto
+Solicite acesso a administradora Brenda (61-98290-3999)
 
-## Listas
+## Objetivos do grupo
 
-Lista Y
+- Organizar caronas
+- Notícias do trânsito
 
-* Item 1
-* Item 2
+#### Administradores
 
-Lista Z
-
-* Item 1
-* Item 2
+- Brenda, Louzada, Elias, Janaina, Cristiane

@@ -1,22 +1,18 @@
 ---
-title: Chegando
+title: Grupo Alpha Funcional
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/funcional.md
 
 ---
 
-# Texto
+## Acesso grupo Alpha Esportes
 
-Bloco de Texto
+Solicite acesso ao professor Bruno (61-99261-2362)
 
-## Listas
+## Objetivos do grupo
 
-Lista Y
+- Reunir alunos do professor Bruno
 
-* Item 1
-* Item 2
+#### Administradores
 
-Lista Z
-
-* Item 1
-* Item 2
+- Bruno, Alessandra
