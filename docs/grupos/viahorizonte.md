@@ -5,17 +5,17 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/viahoriz
 
 ---
 
-## Acesso
+## Acesso grupo Via Horizonte
 
 Link direto para entrar no grupo.
 
 - https://chat.whatsapp.com/JNDO9nEsT2pEiprHVyUbFG
 
-## Código de conduta
+### Código de conduta
 
 Atenção esse grupo é MODERADO.
 
-### Objetivos do grupo
+#### Objetivos do grupo
 
 - Apromixar moradores e consolidar a comunidade VH
 - Postar dicas de restaurantes, serviços e lazer
@@ -24,11 +24,11 @@ Atenção esse grupo é MODERADO.
 - Enviar avisos pertinentes a todos
 - Apoio mútuo entre moradores
 
-### Quem pode participar?
+#### Quem pode participar?
 
 - Todos os moradores do VH, sem limite por unidade ou idade
 
-### Tópicos não permitidos
+#### Tópicos não permitidos
 
 - Conversas e imagens sobre religião
 - Conversas e imagens sobre futebol
@@ -36,18 +36,18 @@ Atenção esse grupo é MODERADO.
 - Conversas e imagens sobre conteúdo adulto/sexual
 - SPAM de qualquer tipo
 
-### Divulgações
+#### Divulgações
 
 - Para anúncios de produtos PREFIRA o grupo ALPHA DESAPEGA
 - Para anúncios de fornecedores PREFIRA o grupo ALPHA FONECEDORES
 
 No mais contamos com o seu bom senso, desde que não seja algo repetitivo manda ver!
 
-### Comportamento não permitido
+#### Comportamento não permitido
 
 - Provocações e ofensas de qualquer tipo, racismo, sexismo, misoginia, homofobia e bullying.
 
-### Administradores
+#### Administradores
 
 - Paulo Faria, Guto Carvalho, Bruno Matos
 - Verusca e Carol

@@ -14,6 +14,9 @@ A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e 
 ### Tela de proteção
 
 - INOVA REDES, 61-98271-7265
+- PRIME REDES, 61-99151-6361
+- Andre, 61-99151-6361
+- Wagner, 61-98430-4799
 
 ### Armário de garagem
 
@@ -49,10 +52,12 @@ A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e 
 - Francisco, 61-99946-3148/61-99555-8554
 - Claudio, 61-99816-4312
 
-### Marcenarias
+### Marcenarias, móveis, armários
 
-- Bruno, 61-8405-4830
 - Medida Exata, 61-99205-1455
+- Green Art, 61-99970-5584
+- Bruno, 61-8405-4830
+- Gilberto, 61-9112-1952
 
 ### Lava Jato
 
