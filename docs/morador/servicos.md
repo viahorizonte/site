@@ -20,7 +20,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
 - R2 Telecom
 
-#### Telefone móvel
+#### Telefone móvel (recomendados)
 
 - Vivo
 - Claro
@@ -28,11 +28,6 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 #### Mini Mercado
 
 - Market4U
-
-#### TV
-
-- Claro TV
-- SKY
 
 #### Energia
 
