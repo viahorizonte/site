@@ -14,8 +14,8 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/ramais.
 | Churrasqueiras           | 29     |
 | Espaço Gourmet           | 27     |
 | Recepção                 | 1      |
-| Portaria Torre A         | 29     |
-| Portaria Torre B         | 29     |
+| Portaria Torre A         | 26     |
+| Portaria Torre B         | 22     |
 | Sala de estudos          | 25     | 
 | Sala de segurança        | 21     |
 | Administração            | 23     |
