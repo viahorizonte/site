@@ -11,39 +11,39 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
 ## Terceiros
 
-### Internet
+#### Internet
 
 - Vec Telecom
 - R2 Telecom
 
-### Telefone fixo
+#### Telefone fixo
 
 - R2 Telecom
 
-### Telefone móvel
+#### Telefone móvel
 
 - Vivo
 - Claro
 
-### Mini Mercado
+#### Mini Mercado
 
 - Market4U
 
-### TV
+#### TV
 
 - Claro TV
 - SKY
 
-### Energia
+#### Energia
 
 - Enel
 
-## Profissionais que moram e atendem no prédio
+### Profissionais que moram e atendem no prédio
 
-### Aromaterapia e Óleos Essenciais
+#### Aromaterapia e Óleos Essenciais
 
 - Verusca 1005-B
 
-### Treino Funcional e Personal
+#### Treino Funcional e Personal
 
 - Prof Bruno 503-A

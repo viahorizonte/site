@@ -16,7 +16,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/pandemi
 - O Uso dos espaços como churrasqueira, salão gourmet e salão de festas está reduzido para o máximo de 15 pessoas
 - A pisica só funciona com reserva prévia, 3 unidades por vez, em janelas de uso de até 2 horas. Lotação máxima para 15 pessoas, uso exclusivo de moradores e familiares hóspedados em suas unidades.
 
-## Higienizaçao do VIA Horizonte
+## Higienização do VIA Horizonte    
 
 - A administração reforcou a higienização de elevadores e áreas comuns
 - Existe grande oferta de álcool em gel para uso
