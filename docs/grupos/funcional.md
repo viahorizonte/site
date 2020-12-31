@@ -5,7 +5,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/funciona
 
 ---
 
-## Acesso grupo Alpha Esportes
+## Acesso grupo Alpha Funcional
 
 Solicite acesso ao professor Bruno (61-99261-2362)
 

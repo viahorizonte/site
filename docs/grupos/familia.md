@@ -5,7 +5,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/grupos/familia.
 
 ---
 
-## Acesso grupo Desapega
+## Acesso grupo Família
 
 Solicite acesso a administradora Brenda (61-98290-3999)
 
