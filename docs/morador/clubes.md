@@ -21,4 +21,8 @@ Não existe lista de visitantes ou qualquer cadastro do tipo, só entra com o mo
 
 ## Posso almoçar no restaurante do clube R1?
 
-Sim, pode almoçar lá, funciona a partir das 11 horas, mas não pode usar o clube de forma alguma, por favor respeite.
+Sim, pode almoçar lá, mas não pode usar o clube de forma alguma, por favor respeite.
+
+Aberto de terça a sexta das 11:30 às 14:00 horas
+
+Sábado, domingo e feriados das 10:00 às 17:00 horas
