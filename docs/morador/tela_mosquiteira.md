@@ -1,7 +1,7 @@
 ---
-title: Chegando
+title: Tela Mosquiteira
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/tela_mosquiteira.md
 
 ---
 

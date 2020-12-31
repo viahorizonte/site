@@ -1,7 +1,7 @@
 ---
-title: Chegando
+title: Armário do estacionamento
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/armario_estacionamento.md
 
 ---
 

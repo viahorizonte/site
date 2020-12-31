@@ -1,7 +1,7 @@
 ---
-title: Chegando
+title: Atas e documentos
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/atas-documentos.md
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Mudar
+title: Pets
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/mudar.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/pets.md
 
 ---
 

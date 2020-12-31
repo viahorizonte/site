@@ -1,7 +1,7 @@
 ---
-title: Chegando
+title: Cheguei, e agora?
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/cheguei.md
 
 ---
 
@@ -9,17 +9,17 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegand
 
 Agora que chegou é hora de aproveitar sua nova casa e fazer novas amizades :)
 
-Aproveite a piscina, academia e o calcadão para fazer uma excelente caminhada e cuidar da saúde!
+Aproveite a piscina, academia e o calçadão para fazer uma excelente caminhada e cuidar de sua saúde!
 
-## Dicas
+## Dicas 901 A
 
-Vamos a algumas dicas simples do pessoal do 901-A para quem acaba de chegar ;)
+Vamos a algumas dicas simples – curadoria do pessoal do 901-A – para quem acaba de chegar ;)
 
 ### Jardim ABC
 
 O local mais próximo para nos ajudar é o Jardim ABC, lá você vai encontrar mercados, farmácias, distribuidoras de bebidas, restaurantes e mais.
 
-Destaques:
+Destaques em nossa opinião:
 
 - Restaurante Dona Bia
 - Pizzaria ABC
@@ -47,28 +47,29 @@ Ambos entregam fibra, contudo, a fibra em alguns pontos é aérea e ocorrem romp
 
 ### Armário de aço para garagem
 
-A EBM já instalou alguns aqui no prédio, fica a sugestão:
+A EBM já instalou alguns aqui no prédio no bloco A, o 503-A recomenda!
 
-- 61-3040-2317
-- 61-4102-9439
+- 61-3040-2317 e 61-4102-9439
 
 ### Celular
 
-A operadora Vivo funciona bem, inclusive seu 4G em todo o complexo, é a operadora recomendada para a região.
+A operadora Vivo é a que funciona melhor, inclusive seu 4G pega todo o complexo, dá para fazer até vídeoconferência, é a operadora que recomendamos para a região.
 
 ### Posto de Combustível
 
 O melhor posto - e o único - é o Ipiranga no KM 9 da DF 140, lá também tem uma lanchonete SUBWAY e uma excelente distribuidora de bebidas.
 
+A entrada é pela frente do Condomínio Santa Mônica, em qualquer sentido na DF 140.
+
 ### Padarias
 
-A padaria mais conhecida da região fica no Tororó chama-se SELETA, fica cerca de 10 KM do prédio, mas vale a pena e tem uma ótima Pizza.
+A padaria mais conhecida da região fica no Tororó chama-se SELETA. Ela está cerca de 10 KM de distância do prédio, mas vale a pena e tem uma ótima Pizza.
 
-No ABC tem a padaria chamda OXENTE no centro, sendo uma segunda opção.
+No ABC tem a padaria chamada OXENTE no centro, sendo uma segunda opção.
 
 O supermercado Rio Verde também oferece uma padaria interna.
 
-Se você estiver animado(a) pode ir na Cidade Ocidental (25 KM) nas padarias "Padre Cícero" e "Francisco", tem coisas bem em conta como paes, queijos e kits que podem durar a semana toda, vale a pena e muita gente do prédio vai lá comprar.
+Se você estiver animado(a) pode ir na Cidade Ocidental (cerca de 25 KM) nas padarias "Padre Cícero" e "Francisco", tem coisas bem em conta como paes gorument, queijos e kits que podem durar a semana toda, vale a pena e muita gente do prédio vai lá comprar para a semana.
 
 ### Lava jato
 
