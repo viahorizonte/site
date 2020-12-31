@@ -9,6 +9,8 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/servico
 
 Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
+## Terceiros
+
 ### Internet
 
 - Vec Telecom
@@ -36,6 +38,12 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
 - Enel
 
+## Profissionais que moram e atendem no prédio
+
+### Aromaterapia e Óleos Essenciais
+
+- Verusca 1005-B
+
 ### Treino Funcional e Personal
 
-- Professor Bruno 503-A
+- Prof Bruno 503-A
