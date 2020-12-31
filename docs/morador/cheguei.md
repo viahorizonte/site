@@ -13,7 +13,20 @@ Aproveite a piscina, academia e o calçadão para fazer uma excelente caminhada 
 
 ## Dicas da Família 901.A
 
-Vamos a algumas dicas simples – curadoria do pessoal do 901.A – para quem acaba de chegar ;)
+Vamos a algumas dicas simples para quem acaba de chegar ;)
+
+### Agora é Goiás!
+
+Você se tornou um(a) legítimo(a) morador(a) da Cidade Ocidental em Goiás, isso por mais ou menos 100 metros :)
+
+Eu gosto de falar que estamos em cima da linha do Quadradinho!
+
+Atualize seu endereço nos bancos, escolas, trabalho, gdf, detran, receita, correios e mais!
+
+- Alameda Mamoré II, Quadra C 02, Conjunto 05
+- Edifício Via Horizonte, APTO XX, BLOCO X
+- CEP 72.897-900
+- Cidade Ocidental, Goiás.
 
 ### Jardim ABC
 
@@ -26,8 +39,9 @@ Destaques em nossa opinião:
 - Lava Jato Champiom
 - Supermercado Cristal
 - Açougue Bom Jesus
-- Chaveiro ABC (trocamos os segredos da porta assim que mudamos)
-
+- Chaveiro ABC
+  - Trocamos os segredos das portas na mudança, recomendo!
+  
 ### Internet Fibra
 
 Temos dois provedores que atendem o prédio, são eles VEC e R2.
@@ -98,9 +112,15 @@ A Pizza ABC é uma excelente opção e entrega no prédio.
 
 - 61-9659-7743
 
-## Lista completa de fornecedores
+## Ainda tem dúvidas? pode me ligar!
 
-As dicas acima foram oferecidas pelo 901.A, mas existem diversos serviços e fornecedores na região.
+Se precisar de alguma coisa é só ligar aqui no 901.A que teremos o prazer em ajudar vocês ;)
+
+Guto e Família!
+
+## Lista completa de fornecedores, serviços e delivery
+
+As dicas acima foram oferecidas pela turminha do 901.A, mas existem diversos serviços e fornecedores na região.
 
 Acesse a lista completa – em constante construção.
 

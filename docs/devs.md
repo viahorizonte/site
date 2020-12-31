@@ -11,9 +11,9 @@ Esse site foi construído para ajudar a comunidade Via Horizonte, trazendo infor
 
 ## Equipe de desenvolvedores
 
-- Guto Carvalho (guto@viahorizonte.life)
-- Paulo Faria (paulo@viahorizonte.life)
-- Bruno Matos (bruno@viahorizonte.life)
+- Guto Carvalho, 901 A (guto@viahorizonte.life)
+- Paulo Faria, 1005 B (paulo@viahorizonte.life)
+- Bruno Matos, 1303 B (bruno@viahorizonte.life)
 
 Se quiser maiores informações, entre em contato:
 

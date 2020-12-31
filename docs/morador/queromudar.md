@@ -13,6 +13,7 @@ Seja muito bem vindo ao Via Horizonte!
 
 * Pegue o kit de chaves com seu(ua) corretor(a)!
 * Faça seu cadastro na administração do prédio, qualquer dúvida ligue no 61-3771-7524
+* Chame um chaveiro e troque o segredo de sua porta de entrada (dica importante)
 * Solicite a ligação de água em sua unidade para a administração do prédio (leva 24 horas após o pedido)
 * Solicite a ligação da energia em sua unidade na ENEL (leva até 5 dias úteis após o pedido). O tipo de relógio é **trifásico**, padrão do prédio.
 * Identifique sua vaga com ajuda dos agentes de portaria
