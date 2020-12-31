@@ -77,6 +77,12 @@ A INOVA REDES atende muito bem e fez toda proteção da casa, recomendamos 61-98
 
 O Bruno fez os armários do 1005 B, ficaram ótimos, contato 61-98405-4830.
 
+### Pedreiro e serviços gerais
+
+Quando chegamos foi necessário reparar alguns azulejos da cozinha e dos banheiros que estavam soltando, além de alguns consertos e instalações hidráulicas e elétricas simples.
+
+Recebemos a indicação do Sr. Lázaro que atendeu o 1005 B ( 61-98170-7320 ), resolveu tudo pra gente, recomendo.
+
 ### Celular
 
 A operadora Vivo é a que funciona melhor, inclusive seu 4G pega todo o complexo, dá para fazer até vídeoconferência, é a operadora que recomendamos para a região.
@@ -116,7 +122,7 @@ A Pizza ABC é uma excelente opção e entrega no prédio.
 
 - 61-9659-7743
 
-## Ainda tem dúvidas? pode me ligar!
+### Ainda tem dúvidas? pode me ligar!
 
 Se precisar de alguma coisa é só ligar aqui no 901.A que teremos o prazer em ajudar vocês ;)
 
