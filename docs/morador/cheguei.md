@@ -21,12 +21,16 @@ Você se tornou um(a) legítimo(a) morador(a) da Cidade Ocidental em Goiás, iss
 
 Eu gosto de falar que estamos em cima da linha do Quadradinho!
 
-Atualize seu endereço nos bancos, escolas, trabalho, gdf, detran, receita, correios e mais!
+Atualize seu endereço nos bancos, escolas, trabalho, gdf, detran, receita, amazon, mercadolivre e mais!
 
 - Alameda Mamoré II, Quadra C 02, Conjunto 05
 - Edifício Via Horizonte, APTO XX, BLOCO X
 - CEP 72.897-900
 - Cidade Ocidental, Goiás.
+
+### Compras pela internet, chega?
+
+Sim chega, e chega rápido, principalmente da Amazon e Mercadolivre.
 
 ### Jardim ABC
 
