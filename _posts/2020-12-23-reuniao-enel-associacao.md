@@ -2,8 +2,7 @@
 layout: post
 title: Enel grupo de trabalho
 tags:
-  - release
-  - patch
+  - posts
 ---
 # Reunião Associação sobre Enel
 

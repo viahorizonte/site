@@ -1,22 +1,20 @@
 ---
-title: Chegando
+title: Agenda
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/agenda.md
 
 ---
 
-# Texto
+### Próximas agendas
 
-Bloco de Texto
+#### 2021
 
-## Listas
+- Assembléia Geral Ordinária para eleição de nova direção
 
-Lista Y
+### Agendas passadas
 
-* Item 1
-* Item 2
+#### 2020
 
-Lista Z
-
-* Item 1
-* Item 2
+- 02/Dez/2020 - Assembléia Geral Extraordinária
+- 11/Nov/2020 - Assembléia Geral Extraordinária
+- 26/Set/2020 - Assembléia Geral Extraordinária

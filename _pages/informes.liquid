@@ -1,12 +1,12 @@
 ---
-title: Via Horizonte Blog
+title: Comunicados Via Horizonte
 layout: doc
-permalink: blog/index.html
+permalink: informes/index.html
 ---
 
 <br/>
 <ul class="posts">
-{% for post in collections.posts %}
+{% for post in collections.informes %}
   <li>
     <a href="{{ post.url | replace: '.html', '' }}">{{ post.data.title }}</a>
     <span class="date">{{ post.date | dateFormat: "d LLLL yyyy" }}</span>

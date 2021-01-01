@@ -5,18 +5,60 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/deliver
 
 ---
 
-# Texto
+## Delivery
 
-Bloco de Texto
+Nesta página vamos consolidar informações de quem entrega no Alpha!
 
-## Listas
+Mande suas sugestões.
 
-Lista Y
+### Comida pronta
 
-* Item 1
-* Item 2
+#### Pizzarias
 
-Lista Z
+- Boa Pizza ABC, 61-9666-8545
+  - https://pedir.delivery/boapizza
+- Pizza Italiana ABC, 61-99384-3779
+- Pizzaria Brasil, 61-99931-0621
+- Pizza Souza, 61-99621-7463
+- Pizza Mônaco, 61-98297-1351
+- Pizza do Rafa, 61-99219-0238
 
-* Item 1
-* Item 2
+#### Churrasco
+
+- Churras Nobre, 61-99198-9144
+  - Picanha Bovina
+  - Ancho Bovino
+  - Chorizo Bovino
+  - Carne de Sol
+  - Picanha Suina
+  - Coxa e Sobrecoxa Dessosada
+  - Linguiça de Frango
+  - Linguiças artesanais
+
+#### Hamburguers
+
+- Privatique Burguer, 61-98131-3961
+  - Artesanais
+  - Veganos
+  - Kids
+  - Onion Rings
+
+#### Restaurantes
+
+- Dona Bia, 61-99843-598 e 61-3227-2145 
+
+### Comida congelada
+
+- Easy Meat, 61-98153-8602
+  - Porterhouse Angus
+  - Ancho Angus
+  - Tomahawk Angus
+  - Fraldinha Angus
+  - Bife de lombo
+  - Porchetta
+  - Linguiça IPA
+  - Linguiça de frango
+  - Linguiça suína com tempero holandês 
+  - Coxinha da asa temperada
+  - Coxa/sobrecoxa desossada é recheada com queijo coalho e azeitona
+  - https://www.goomer.app/easymeat/menu

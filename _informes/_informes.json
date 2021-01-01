@@ -1,0 +1,4 @@
+{
+  "layout": "informes",
+  "permalink": "informes/{{ page.date | dateFormat: \"yyyy/MM\" }}/{{ page.fileSlug }}.html"
+}
