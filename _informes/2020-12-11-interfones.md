@@ -17,3 +17,7 @@ Desde já agradecemos a atenção e colaboração de todos.
 Atenciosamente,
 
 Administrativo Via Horizonte, 11/12/2020
+
+### Fonte
+
+Essas informações são recebidas por e-mail, vindas da administração atual do VH.

@@ -38,6 +38,8 @@ Sorry, não atende em nossa região.
 
 Mas fica tranquilo, acesse a página de [Delivery](https://viahorizonte.life/docs/morador/delivery), temos boas opções e com entrega no prédio.
 
+Além do delivery no estacionamento do R2 temos um mini-mercado ALPHA em um container, acessível a todos por aplicativo.
+
 ### Jardim ABC
 
 O local mais próximo para nos ajudar é o Jardim ABC, lá você vai encontrar mercados, farmácias, distribuidoras de bebidas, restaurantes e mais.
