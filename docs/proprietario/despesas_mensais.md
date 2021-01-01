@@ -1,22 +1,14 @@
 ---
-title: Despesas
+title: Despesas mensais
 layout: doc
 edit_link: https://github.com/viahorizonte/site/edit/master/docs/proprietario/despesas_mensais.md
 
 ---
 
-# Texto
+## Demonstrativo de despesas
 
-Bloco de Texto
+Anexando o demonstrativo de despesas mensais que nós moradores recebemos por e-mail.
 
-## Listas
+### 2020
 
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+- Download do demonstrativo de [Outubro](/files/DEMONSTRATIVO_FINANCEIRO_10_2020.pdf).
