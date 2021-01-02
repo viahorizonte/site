@@ -1,22 +1,20 @@
 ---
-title: Chegando
+title: Contato Via Horizonte
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/contato_vh.md
 
 ---
 
-# Texto
+# Contatos Via Horizonte
 
-Bloco de Texto
+Telefone: 
 
-## Listas
+- 61-3771-7524
 
-Lista Y
+E-mail da adminstração: 
 
-* Item 1
-* Item 2
+- admviahorizonte@gmail.com
 
-Lista Z
+Endereço: 
 
-* Item 1
-* Item 2
+- Alameda Mamoré II, Quadra C02, Conjunto 05, Edifício Via Horizonte, 72.897-900, Cidade Ocidental, Goiás.

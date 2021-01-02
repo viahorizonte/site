@@ -1,22 +1,21 @@
 ---
-title: Chegando
+title: Via Horizonte
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/viahorizonte.md
 
 ---
 
-# Texto
+#  Projeto Via Horizonte
 
-Bloco de Texto
+A construtora VIA adquiriu uma área e investiu na construção do Via Horizonte, parte do complexo Alphaville Brasília.
 
-## Listas
+O Via Horizonte não faz parte do projeto "Alphaville Urbanismo", contudo, está dentro do complexo, fazendo parte da Associação Geral Alphaville, ajudando nos custos de manutenção de todo o complexo.
 
-Lista Y
+A VIA iniciou a construção em 20xx e entregou a obra em 20xx.
 
-* Item 1
-* Item 2
+Os primeiros moradores chegaram em 20xx e sua primeira administração foi formada em 20xx e teve a seguinte composição:
 
-Lista Z
-
-* Item 1
-* Item 2
+- Sindico(a):
+- Sub-sindico(a):
+- Conselho Fiscal:
+- Conselho Consultivo:

@@ -11,11 +11,7 @@ Link direto para entrar no grupo.
 
 - https://chat.whatsapp.com/JNDO9nEsT2pEiprHVyUbFG
 
-### Código de conduta
-
-Atenção esse grupo é MODERADO.
-
-#### Objetivos do grupo
+## Objetivos do grupo
 
 - Apromixar moradores e consolidar a comunidade VH
 - Postar dicas de restaurantes, serviços e lazer
@@ -23,6 +19,10 @@ Atenção esse grupo é MODERADO.
 - Planejar inovações e melhorias no VH de forma coletiva
 - Enviar avisos pertinentes a todos
 - Apoio mútuo entre moradores
+
+### Código de conduta
+
+Atenção esse grupo é MODERADO.
 
 #### Quem pode participar?
 
