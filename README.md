@@ -4,9 +4,11 @@
 
 This contains the code running on [viahorizonte.life](https://viahorizonte.life).
 
+This entire site is based on the https://eslint.org/ site and repo.
+
 ## Pull Requests
 
-Please send your PRs.
+Please send your PRs anytime.
 
 ## Developer Setup
 
