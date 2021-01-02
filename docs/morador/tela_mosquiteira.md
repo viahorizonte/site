@@ -5,18 +5,16 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/tela_mo
 
 ---
 
-# Texto
+# Tela Mosquiteira
 
-Bloco de Texto
+Ainda nao foi criada uma normal definitiva para essa tela.
 
-## Listas
+### Detalhamento        
 
-Lista Y
+Sistema: Trilho simples, atrás do trilho da janela.
 
-* Item 1
-* Item 2
+Alumínio: Anodizado prata fosco.
 
-Lista Z
+Cor da tela: Cinza
 
-* Item 1
-* Item 2
+Normalmente instala-se apenas 1 folha da tela que é utilizada sob-demanda.

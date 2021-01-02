@@ -1,22 +1,14 @@
 ---
-title: Convenção Coletiva
+title: Convenção do Condomínio
 layout: doc
 edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/convencao.md
 
 ---
 
-# Texto
+# Convenção do Condomínio
 
-Bloco de Texto
+- Download da [convenção do condomínio](/files/CONVENCAO_DO_CONDOMINIO_2017_09_03.pdf) de 2017-09-03 em PDF (imagem).
 
-## Listas
+### Convenção do Condomínio
 
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+Colocar em texto pesquisável.

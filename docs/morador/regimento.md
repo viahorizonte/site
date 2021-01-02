@@ -1,22 +1,14 @@
 ---
-title: Regimento Interno
+title: Regimento
 layout: doc
 edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/regimento.md
 
 ---
 
-# Texto
+# Regimento interno
 
-Bloco de Texto
+- Download do [regimento interno](/files/REGIMENTO_INTERNO.pdf) atual PDF (imagem).
 
-## Listas
+### Regimento interno
 
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+Colocar em texto pesquisável.

@@ -79,19 +79,19 @@ A EBM já instalou alguns aqui no prédio no bloco A, o 503-A recomenda.
 
 - 61-3040-2317 e 61-4102-9439
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Tela de proteção
 
 A INOVA REDES atende muito bem e fez toda proteção da casa, recomendamos 61-98271-7265.
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Marceneiro
 
 O Bruno fez os armários do 1005 B, ficaram ótimos, contato 61-98405-4830.
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Pedreiro e serviços gerais
 
@@ -99,7 +99,7 @@ Quando chegamos foi necessário reparar alguns azulejos da cozinha e dos banheir
 
 Recebemos a indicação do Sr. Lázaro que atendeu o 1005 B ( 61-98170-7320 ), resolveu tudo pra gente, recomendo.
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Celular
 
@@ -113,7 +113,7 @@ O melhor posto - e o único - é o Ipiranga no KM 9 da DF 140, lá também tem u
 
 A entrada é pela frente do Condomínio Santa Mônica, em qualquer sentido na DF 140.
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Padarias
 
@@ -133,7 +133,7 @@ O lava jato Champion – próximo do mercado Cristal – oferece um serviço de 
 
 - 61-9955-4700 (renan)
 
-Acesse a lista completa de [fornecedores](https://viahorizonte.life/docs/morador/fornecedores).
+Acesse a lista completa de [prestadores](https://viahorizonte.life/docs/morador/prestadores).
 
 ### Restaurante
 
@@ -165,7 +165,7 @@ As dicas acima foram oferecidas pela turminha do 901.A, mas existem diversos ser
 Acesse a lista completa – em constante construção.
 
 - [Serviços](https://viahorizonte.life/docs/morador/servicos)
-- [Fornecedores](https://viahorizonte.life/docs/morador/fornecedores)
+- [Prestadores](https://viahorizonte.life/docs/morador/prestadores)
 - [Delivery](https://viahorizonte.life/docs/morador/delivery)
 
 Ajude a manter a lista atualizada!
