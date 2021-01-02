@@ -20,10 +20,11 @@ Seja muito bem vindo ao Via Horizonte!
 * Identifique sua caixa de correio com os agentes de portaria
 * Pegue a chave do seu carrinho de compras na PORTARIA B (2 chaves)
 * Solicite seu usuário no sistema do prédio e agende você mesmo a sua mudança pelo sistema web
+* É proibido fumar em qualquer área comum do prédio. (Lei 12.546/2011)
 
 ## Horários
 
-- A janela de mudanças ocorre entre 08 e 18 horas.
+- A janela de mudanças ocorre entre 08 e 18 horas no dias úteis e das 09 às 13 no sábado.
 - Entre 12 e 13 horas o pessoal precisa dar um pause na mudança, é o horário de almoço dos AGPs.
 
 ## Acessos
@@ -33,5 +34,6 @@ Seja muito bem vindo ao Via Horizonte!
 - Verifique se o elevador de serviço está com o FORRO, caso não, solicite aos AGPs
 - Tome cuidado com o peso máximo permitido no elevador de serviço
 - Tome cuidado com o piso e as paredes no transporte dos móveis para sua unidade
+
 
 Qualquer dúvida procure um AGP para te auxiliar.
