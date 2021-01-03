@@ -7,7 +7,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/devs.md
 
 ## Projeto VHZ
 
-Esse site foi construído para ajudar a comunidade Via Horizonte, trazendo informações úteis para seus moradores.
+Este site é uma iniciativa dos moradores do VH, sendo um local de apoio e compartilhamento de informações.
 
 ## Equipe de desenvolvedores
 
@@ -15,6 +15,6 @@ Esse site foi construído para ajudar a comunidade Via Horizonte, trazendo infor
 - Paulo Faria, 1005 B (paulo@viahorizonte.life)
 - Bruno Matos, 1303 B (bruno@viahorizonte.life)
 
-Se quiser maiores informações, entre em contato:
+Se quiser maiores informações sobre o site, entre em contato:
 
 - contato@viahorizonte.life

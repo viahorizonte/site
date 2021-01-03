@@ -7,7 +7,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/equipe_
 
 # Equipe Via Horizonte
 
-## Atual administração
+### Atual administração
 
 Exercício de 2019 a 2020.
 
@@ -16,18 +16,37 @@ Exercício de 2019 a 2020.
 - Conselho Fiscal:
 - Conselho Consultivo:
 
-## Equipe operacional
+#### Equipe operacional
 
 - AGPs:
 - Administrativo:
 - Manutenção:
 
-## Empresa Prestadora de serviços
+### Prestadoras de serviços
 
-- JK Exclusive
- - Limpeza
- - Conservação
- - Cobranças
- - Administração
- - Contabilidade
- - Operação
+#### JK Exclusive
+
+Área de atuação
+
+  - Limpeza
+  - Conservação
+  - Cobranças
+  - Administração
+  - Contabilidade
+  - Operação
+
+#### Nome
+
+Manutenção de elevadores
+
+#### Nome
+
+Manutenção dos portões
+
+#### Nome
+
+Manutenção das piscinas
+
+#### Nome
+
+Manutenção dos jardins

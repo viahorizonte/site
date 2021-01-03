@@ -42,3 +42,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 #### Treino Funcional e Personal
 
 - Prof Bruno 503-A
+
+#### Designer de Sobrancelhas e Manicure
+
+- Carolina Guimaraes, 1003-B
