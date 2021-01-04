@@ -1,22 +1,53 @@
 ---
-title: Chegando
+title: Associação Geral
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/associacao.md
 
 ---
 
-# Texto
+# Associação Geral Alphaville
 
-Bloco de Texto
+## Sobre
 
-## Listas
+Sobre a associação...
 
-Lista Y
+## Contato
 
-* Item 1
-* Item 2
+- geral@alphavilleresidencial1.com.br
+- 4063-6462
 
-Lista Z
+## Atribuições
 
-* Item 1
-* Item 2
+- Representar o Alphaville
+- Segurança externa
+- Preservação
+- Jardinagem
+
+Adicionar mais infos...
+
+## Direção da associação
+
+- Sindico: Claudio
+- Sub-sindico: 
+- Conselho fiscal:
+- Conselho consultivo:
+
+## Condomínios Membros
+
+- Alphaville BSB Residencial 1
+- Alphaville BSB Residencial 2
+- Via Horizonte
+- Alpha Mall
+- Welcome Center
+- Alphaville Urbanismo
+
+## Documentos
+
+- Download da convenção
+- Download do regimento interno
+- Download das atas de reunião
+- Prestação de contas 2020
+
+## Agendas
+
+- Próxima Assembléia Geral em XX/XX
