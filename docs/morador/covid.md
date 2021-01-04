@@ -14,7 +14,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/pandemi
 ## Espaços de lazer
 
 - O Uso dos espaços como churrasqueira, salão gourmet e salão de festas está reduzido para o máximo de 15 pessoas
-- A piscina só funciona com reserva prévia (portaria principal), 3 unidades por vez, em janelas de uso de até 2 horas. Lotação máxima para 15 pessoas, uso exclusivo de moradores e familiares hóspedados em suas unidades.
+- A piscina só funciona com reserva prévia (portaria principal), 3 unidades por vez, em janelas de uso de até 2 horas. Lotação máxima para 15 pessoas, uso exclusivo de moradores e familiares hospedados em suas unidades.
 
 ## Higienização do VIA Horizonte    
 
