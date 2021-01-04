@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 /* eslint-enable */
 
-window.ga("create", "UA-60915033-1", "eslint.org");
+window.ga("create", "G-8XZ56B1CEC", "viahorizonte.life");
 window.ga("send", "pageview");
 document.querySelectorAll(".sponsor-link").forEach(
     el => el.addEventListener("click",
