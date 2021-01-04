@@ -1,22 +1,25 @@
 ---
-title: Chegando
+title: trucks
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/trucks.md
 
 ---
 
-# Texto
+# Food Trucks
 
-Bloco de Texto
+De quarta a domingo o Alpha recebe alguns food trucks.
 
-## Listas
+No momento o atendimento ocorre no HELIPONTO em frente ao Alphaville Welcome Center.
 
-Lista Y
+Em 2021 temos notícias que a associação vai construir um espaço adequado para os Food Trucks.
 
-* Item 1
-* Item 2
+### Agenda 2021
 
-Lista Z
+Em breve!
 
-* Item 1
-* Item 2
+### Contatos
+
+- Viera, Massas, Risotos e Carnes, 61-98251-8181
+- Dourado, Cerveja, 61-8205-5013
+- Heffs, Calzone e Pizza, 61-99331-4320
+- Galeteria Gaúcha, 62-8241-4559

@@ -1,22 +1,22 @@
 ---
-title: Chegando
+title: feira
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/feira.md
 
 ---
 
-# Texto
+# Feira
 
-Bloco de Texto
+Nos sábados de manhã temos uma pequena banca de feira no Alphaville, com frutas, legumes e verduras frescas.
 
-## Listas
+Existem opções orgânicas e também de agricultura familiar.
 
-Lista Y
+No momento o atendimento ocorre no HELIPONTO em frente ao Alphaville Welcome Center.
 
-* Item 1
-* Item 2
+### Agenda 2021
 
-Lista Z
+- Todo o sábado das 08 às 13 horas.
 
-* Item 1
-* Item 2
+### Contatos
+
+- Sítio Boa Esperança, 61-99925-3476
