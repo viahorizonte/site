@@ -34,14 +34,16 @@ Mande suas sugestões.
   - Coxa e Sobrecoxa Dessosada
   - Linguiça de Frango
   - Linguiças artesanais
+  - https://www.instagram.com/churrasnobrebsb
 
 #### Hamburguers
 
-- Privatique Burguer, 61-98131-3961
+- Privarique Burguer, 61-98131-3961
   - Artesanais
   - Veganos
   - Kids
   - Onion Rings
+  - https://www.instagram.com/pivariqueburguer
 
 #### Restaurantes
 
