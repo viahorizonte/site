@@ -11,6 +11,14 @@ Aqui vamos manter uma lista de prestadores que já fizeram serviço no prédio e
 
 A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e recomendar só os melhores :)
 
+### Farmácias
+
+- Farmácia Brasil (jd. mangueiral), 61-9986-1065
+
+### Veterinária
+
+- AMAPET, 61-98208-2556 (Aplha Center ao lado da Padaria Seleta)
+
 ### Chaveiro
 
 - Chaveiro ABC, 99942-9317
@@ -67,10 +75,6 @@ A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e 
 
 - Champion, 61-9955-4700
 - Kipp, 61-99462-2825
-
-### Veterinária
-
-- AMAPET, 61-98208-2556 (Aplha Center ao lado da Padaria Seleta)
 
 ### Agropecuária
 

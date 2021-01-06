@@ -13,4 +13,4 @@ O horário de execução de obras ou serviços que impliquem em barulho, nas uni
 
 É de responsabilidade do condômino executor de obras ou serviços a retirada de entulhos em container apropriados, bem como zelar pelo bom uso, limpeza e manutenção dos locais de trânsito, inclusive dos elevadores.
 
-d) – Qualquer obra ou reparo de conservação, nas áreas comuns ou nas privativas, deverá observar o Código de Obras e Postura do Município de Cidade Ocidental - GO.
+Qualquer obra ou reparo de conservação, nas áreas comuns ou nas privativas, deverá observar o Código de Obras e Postura do Município de Cidade Ocidental - GO.
