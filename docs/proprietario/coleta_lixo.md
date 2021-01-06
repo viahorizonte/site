@@ -7,7 +7,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/coleta_
 
 # Coleta de Lixo
 
-No momento a coleta de lixo é feito por empresa pública, ocorre algumas vezes por semana.
+No momento a coleta de lixo é feita por empresa pública, ocorre algumas vezes por semana.
 
 No prédio temos a separação do lixo nos andares, seco e orgânico.
 
