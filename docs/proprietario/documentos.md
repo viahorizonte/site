@@ -1,22 +1,11 @@
 ---
-title: Chegando
+title: Documentos
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/proprietario/documentos.md
 
 ---
 
-# Texto
+# Documentos
 
-Bloco de Texto
-
-## Listas
-
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+- [Memorial descritivo do Via Horizonte](/files/MEMORIAL_DESCRITIVO.pdf).
+- [Cartilha Via Horizonte - Utiliza pela equipe de vendas VIA](/files/VIA_HORIZONTE_MANUAL_DE_VENDAS.pdf)

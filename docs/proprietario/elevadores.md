@@ -1,22 +1,14 @@
 ---
-title: Chegando
+title: Elevadores
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/elevadores.md
 
 ---
 
-# Texto
+# Elevadores
 
-Bloco de Texto
+Temos 7 elevadores no total dentro do Via Horizonte.
 
-## Listas
+São 3 elevadores por bloco, sendo 2 sociais e 1 de serviço.
 
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+Temos também 1 elevador - panorâmico - na recepção que dá acesso a área gourmet e também a área de lazer (L).

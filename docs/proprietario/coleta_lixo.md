@@ -1,22 +1,20 @@
 ---
-title: Chegando
+title: Coleta de Lixo
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/coleta_lixo.md
 
 ---
 
-# Texto
+# Coleta de Lixo
 
-Bloco de Texto
+No momento a coleta de lixo é feito por empresa pública, ocorre algumas vezes por semana.
 
-## Listas
+No prédio temos a separação do lixo nos andares, seco e orgânico.
 
-Lista Y
+Recomenda-se que o lixo seco esteja acomodado em sacos azuis e orgânico em sacos pretos (opcional).
 
-* Item 1
-* Item 2
+No momento, a empresa de coleta da Cidade Ocidental não está fazendo a coleta seletiva, mas estamos mantendo a cultura internamente.
 
-Lista Z
+Estamos conversando com a associação geral para tentar retomar a coleta seletiva no complexo Alphaville.
 
-* Item 1
-* Item 2
+Assim que houver novidades avisaremos.
