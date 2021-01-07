@@ -33,7 +33,7 @@ Se houver dúvidas ligue na administração no ramal 23.
   - Manter distância de 1 metro entre as pessoas da casa, sempre
   - Usar mascara mesmo dentro de casa, para evitar contaminar os demais membros da família
   - Reforçar a limpeza com água sanitária ou lisoform em toda a casa
-  - Reforçar a limpeza com álcool 70%
+  - Reforçar a limpeza com álcool 70% em todos os objetos e móveis
 - Use preferencialmente serviços de entrega para não ter que sair do isolamento
 
 Dúvidas acesse:

@@ -11,7 +11,7 @@ No momento a coleta de lixo é feita por empresa pública, ocorre algumas vezes 
 
 No prédio temos a separação do lixo nos andares, seco e orgânico.
 
-Recomenda-se que o lixo seco esteja acomodado em sacos azuis e orgânico em sacos pretos (opcional).
+Recomenda-se que o lixo SECO esteja acomodado em sacos azuis e orgânico em sacos PRETOS (opcional).
 
 No momento, a empresa de coleta da Cidade Ocidental não está fazendo a coleta seletiva, mas estamos mantendo a cultura internamente.
 

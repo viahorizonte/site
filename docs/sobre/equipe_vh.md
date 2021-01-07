@@ -11,16 +11,15 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/equipe_
 
 Exercício de 2019 a 2020.
 
-- Sindico(a):
-- Sub-sindico(a):
-- Conselho Fiscal:
-- Conselho Consultivo:
+- Sindico(a): Geraldo Mathias
+- Sub-sindico(a): Milano Aragão
+- Conselho Fiscal: Patricia Duarte, Marcelo Godoy, Marcos de Alessandro
 
 #### Equipe operacional
 
-- AGPs:
-- Administrativo:
-- Manutenção:
+- AGPs: Adenalda, Adriane, ....
+- Administrativo: Rosi
+- Manutenção: Jacson
 
 ### Prestadoras de serviços
 

@@ -15,7 +15,6 @@ A VIA iniciou a construção em 20xx e entregou a obra em 20xx.
 
 Os primeiros moradores chegaram em 20xx e sua primeira administração foi formada em 20xx e teve a seguinte composição:
 
-- Sindico(a):
+- Sindico(a): Brenda Cohen
 - Sub-sindico(a):
-- Conselho Fiscal:
-- Conselho Consultivo:
+- Conselho:

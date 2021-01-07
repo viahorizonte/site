@@ -15,6 +15,14 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/contato
 
 - admviahorizonte@gmail.com
 
+### E-mail do conselho
+
+- conselhoviahorizonte@gmail.com
+
+### CNPJ e dados do prédio
+
+- Inserir dados
+
 ### Endereço
 
 - Alameda Mamoré II, Quadra C02, Conjunto 05, Edifício Via Horizonte, 72.897-900, Cidade Ocidental, Goiás.
