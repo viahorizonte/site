@@ -15,7 +15,9 @@ A VIA já teve até escritório dentro do Via Horizonte, dando um apoio excelent
 
 No momento a VIA está em recuperação judicial e não tem mais escritório no Via Horizonte.
 
-Devido a uma dívida com o Bradesco, em 2019 a VIA repassou 70 unidades para o Bradesco através do Fundo de Investimentos que financiou o complexo, esses apartamentos já foram todos vendidos entre 2019 e 2020.
+- http://www.grupovia.com.br/recuperacao-judicial
+
+Devido a uma dívida com o Bradesco, em 2019 a VIA repassou cerca de 70 unidades para quitar dívidas com o banco. O banco através de um de seus Fundos de Investimentos revendeu estas unidades, todas já foram vendidas.
 
 ### Consigo acionar a via para reparos ou garantia?
 
