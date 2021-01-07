@@ -22,3 +22,9 @@ Devido a uma dívida com o Bradesco, em 2019 a VIA repassou 70 unidades para o B
 No caso da VIA, só é possível acionar via justiça, mas é um processo lento e sem garantias.
 
 A maioria dos novos e antigos moradores arca com os reparos diretamente.
+
+### Contatos
+
+- Telefones: (61) 3403-4094 e 3403-4081
+- Email: sac@grupovia.com.br
+- Site: http://www.viaempreendimentos.com.br
