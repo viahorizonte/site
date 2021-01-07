@@ -13,6 +13,8 @@ A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e 
 
 ### Farmácias
 
+- Farmácia Sta Clara (jd. abc), 61-99907-0820
+- Farmácia DrogaCenter (jd. abc), 61-99654-9269
 - Farmácia Brasil (jd. mangueiral), 61-9986-1065
 
 ### Veterinária
@@ -22,6 +24,10 @@ A comunidade deve sugerir empresas e com isso vamos manter a lista atualizada e 
 ### Chaveiro
 
 - Chaveiro ABC, 99942-9317
+
+### Gesseiro
+
+- Orlando, 61-99639-7694
 
 ### Tela de proteção
 
