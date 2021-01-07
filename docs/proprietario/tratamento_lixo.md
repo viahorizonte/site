@@ -1,11 +1,11 @@
 ---
-title: Coleta de Lixo
+title: Tratamento do Lixo
 layout: doc
 edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/coleta_lixo.md
 
 ---
 
-# Coleta de Lixo
+# Tratamento do Lixo
 
 No momento a coleta de lixo é feita por empresa pública, ocorre algumas vezes por semana.
 
