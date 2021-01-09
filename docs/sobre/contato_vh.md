@@ -21,7 +21,8 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/contato
 
 ### CNPJ e dados do prédio
 
-- Inserir dados
+- Condominio Via Horizonte
+- CNPJ: 26.425.875/0001-29
 
 ### Endereço
 
