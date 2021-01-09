@@ -1,22 +1,11 @@
 ---
-title: Chegando
+title: Infraestrutura do prédio
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/infraestrutura.md
 
 ---
 
-# Texto
+# Infraestrutura
 
 Bloco de Texto
 
-## Listas
-
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2

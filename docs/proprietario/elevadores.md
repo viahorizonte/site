@@ -27,9 +27,4 @@ Temos também 1 elevador - panorâmico - na recepção que dá acesso a área go
    - Profundidade da cabine 1,38m
    - Altura da cabine 2,18m
 
-### Dimensões das Escadas
-
-- Corrimão a corrimão 1,23m
-- Parede a parede 1,39m
-- Altura 2,46m
-- Porta corta fogo 0,8x x 2,08m (vão livre)
+Verifique também as dimensões das [escadas](/docs/proprietario/escadas)
