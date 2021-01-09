@@ -26,9 +26,11 @@ Seja muito bem vindo ao Via Horizonte!
 
 - Faça uma profunda limpeza no apartamento
 - Faça uma dedetização com algum produto como K-othrine CE 25
-- Se você tem gatos ou cachorros, instale as redes de proteção
+- Se você tem filhos pequenos, instale as redes de proteção
+- Se você tem gatos ou cachorros, instale as redes de proteção com distância de 5 cm entre parafusos
+  - Peça para não deixar nenhum tipo de vão livre nas áreas técnicas, especialmente se tiver gatos
 - Se tem alérgicos a insetos em casa, instale a tela mosquiteira
-- Leve um técnico e verifique instalações hidráulicas e elétricas
+- Leve um técnico e verifique instalações hidráulicas, elétricas, iluminação e conector do gás
 
 ## Horários
 
