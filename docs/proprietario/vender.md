@@ -27,9 +27,10 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/vender.
 
 ### Quero contratar um corretor
 
-- Encontre uma boa(om) corretora(or) para te ajudar, temos alguns no Via Horizonte
+- Ótimo, esse é o melhor caminho!
+- Encontre um(a) boa(om) corretora(or) para te ajudar, temos alguns(mas) no Via Horizonte
 - Normalmente a comissão varia entre 6% e 8% para corretores do DF
-- É o vendedor que paga a comissão
+- É o vendedor que paga a comissão, ou quem contratar o corretor
 
 ### Acesso ao prédio
 
