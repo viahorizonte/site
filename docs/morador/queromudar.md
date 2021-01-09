@@ -9,7 +9,7 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/queromu
 
 Seja muito bem vindo ao Via Horizonte!
 
-## Dicas! 
+## Dicas importantes!
 
 * Pegue o kit de chaves com seu(ua) corretor(a)!
 * Faça seu cadastro na administração do prédio, qualquer dúvida ligue no 61-3771-7524
@@ -21,6 +21,14 @@ Seja muito bem vindo ao Via Horizonte!
 * Pegue a chave do seu carrinho de compras na PORTARIA B (2 chaves)
 * Solicite seu usuário no sistema do prédio e agende você mesmo a sua mudança pelo sistema web
 * É proibido fumar em qualquer área comum do prédio. (Lei 12.546/2011)
+
+## Antes de mudar
+
+- Faça uma profunda limpeza no apartamento
+- Faça uma dedetização com algum produto como K-othrine CE 25
+- Se você tem gatos ou cachorros, instale as redes de proteção
+- Se tem alérgicos a insetos em casa, instale a tela mosquiteira
+- Leve um técnico e verifique instalações hidráulicas e elétricas
 
 ## Horários
 
