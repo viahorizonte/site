@@ -7,6 +7,10 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/espaco/piscina.
 
 # Uso da piscina
 
+Temos 2 piscinas no Via Horizonte, uma para adulto e outra para crianças.
+
+## Normas de uso
+
 - O uso da piscina é destinado aos moradores e hóspedes
 - A idade mínima para uso da piscina adulta é de 12 anos, abaixo disso só acompanhado pelos responsáveis
 - Não é permitido fazer lanches ou refeições na piscina
