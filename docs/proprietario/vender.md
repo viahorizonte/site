@@ -1,22 +1,36 @@
 ---
-title: Chegando
+title: Quero vender, e agora?
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/vender.md
 
 ---
 
-# Texto
+# Quero vender, e agora?
 
-Bloco de Texto
+### Documentação
 
-## Listas
+- Coloque toda a documentação do apartamento em dia
+  - IPTU
+  - Condomínio
+  - Energia (Enel)
+- Peça uma certidão de matrícula atualizada e digitalize para enviar aos interessados
 
-Lista Y
+### Manutenções
 
-* Item 1
-* Item 2
+- Faça as manutenções elétricas e hidráulicas necessárias para vender sem "detalhes"
 
-Lista Z
+### Aparência
 
-* Item 1
-* Item 2
+- Dê um trato na aparência do seu apartamento, isso ajuda muito na venda 
+- Se possível contrate um fotógrafo profissional fazer imagens do apartamento
+- Caso tente vender direto, use e abuse dos sites de imóveis
+
+### Quero contratar um corretor
+
+- Encontre uma boa(om) corretora(or) para te ajudar, temos alguns no Via Horizonte
+- Normalmente a comissão varia entre 6% e 8% para corretores do DF
+- É o vendedor que paga a comissão
+
+### Acesso ao prédio
+
+- Visitas apenas agendadas, acompanhadas de corretor ou proprietário
