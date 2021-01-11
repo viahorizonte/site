@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Mercadinho
+title: Informe Mercadinho
 tags:
   - informes
 ---

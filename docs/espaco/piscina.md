@@ -29,3 +29,7 @@ Temos 2 piscinas no Via Horizonte, uma para adulto e outra para crianças.
 ## Manutenção e Limpeza
 
 - A piscina não funciona nas quartas-feiras, neste dia é feito a limpeza e manutenção.
+
+Ainda tem dúvidas? 
+
+Verifique o [regimento](/docs/morador/regimento) interno e a [convenção](/docs/morador/convencao) vigente!

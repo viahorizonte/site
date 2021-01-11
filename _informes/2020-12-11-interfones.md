@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Interfones
+title: Informe Interfones
 tags:
   - informes
 ---

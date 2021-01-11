@@ -1,22 +1,14 @@
 ---
-title: Chegando
+title: Salão de festas infantil
 layout: doc
-edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/chegando.md
+edit_link: https://github.com/viahorizonte/site/edit/master/docs/espaco/festa_crianca.md
 
 ---
 
-# Texto
+# Salão de festas infantil
 
-Bloco de Texto
+Conteúdo
 
-## Listas
+Ainda tem dúvidas? 
 
-Lista Y
-
-* Item 1
-* Item 2
-
-Lista Z
-
-* Item 1
-* Item 2
+Verifique o [regimento](/docs/morador/regimento) interno e a [convenção](/docs/morador/convencao) vigente!
