@@ -13,6 +13,6 @@ Cada andar possui uma local para armazenamento de lixo com duas lixeiras, uma pa
 
 A coleta começa no andar mais alto e vem descendo.
 
-Pela manhã ideal colocar o lixo até às 09 horas, a coleta da manhã finaliza às 10 horas.
+Pela manhã ideal colocar o lixo até às 08 horas, a coleta da manhã finaliza às 9:00 horas.
 
-Pela tarde ideal colocar o lixo até às 13 horas, a coleta da tarde finaliza às 15 horas.
+Pela tarde ideal colocar o lixo até às 14 horas, a coleta da tarde finaliza às 15:30 horas.
