@@ -13,9 +13,21 @@ Em 2021 as taxas ordinárias serão recalculadas para corrigir essas distorçõe
 
 Existe em andamento um projeto para individualização da água.
 
-### 2020
-
 Essas informações são recebidas por e-mail, vindas da administração atual do VHZ e colocadas aqui sem quaisquer mudanças.
+
+### 2021
+
+#### JANEIRO/2021
+
+| Item                        | Valor         |
+|:----------------------------| -------------:|
+| Total da fatura             | R$ 20.667,78  |
+| Previsto no Orçamento 19/20 | R$  9.500,00  |
+| Valor a ratear              | R$ 11.167,78  |
+
+Download da conta de água [Janeiro](/files/FATURA_SANEAGO_01_2021.pdf).
+
+### 2020
 
 #### Dezembro/2020
 
