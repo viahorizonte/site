@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Geradores
+title: Informe Auditoria Externa
 tags:
   - informes
 ---
