@@ -47,7 +47,8 @@ Mande suas sugestões.
 
 #### Restaurantes
 
-- Dona Bia, 61-99843-598 e 61-3227-2145 
+- Dona Bia, 61-99843-5987
+  - https://pedir.delivery/donabia
 
 ### Comida congelada
 
