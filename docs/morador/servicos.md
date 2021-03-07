@@ -50,3 +50,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 #### Advocacia
 
 - Rodrigo 902-A
+
+#### Manutenção em computadores Apple (instalacao, backup, etc)
+
+- Guto 901-A

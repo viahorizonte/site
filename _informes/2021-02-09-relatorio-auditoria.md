@@ -8,9 +8,10 @@ tags:
 
 Prezados Condôminos,
 
-Comunicamos que o gerador do condomínio foi dimensionado para atender além dos elevadores, o sistema de abertura dos portões e a iluminação da garagem.
+Conforme deliberado na AGE do dia 02.12.2020, segue anexo o laudo de auditoria realizada nos livros contábeis da gestão do atual síndico, Sr. Geraldo, do período de novembro/2019 a outubro/2020, lembrando que o mesmo será apresentado na próxima Assembleia Geral do Condomínio.
 
-Destacamos que a empresa prestadora de serviços está elaborando um laudo técnico referente às mencionadas mudanças.
+- [Acessar relatório](/files/RELATORIO_AUDITORIA_VIAHORIZONTE_NOV-19-A-OUT-20).
+
 
 ### Fonte
 
