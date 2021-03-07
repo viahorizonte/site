@@ -58,16 +58,16 @@ Destaques em nossa opinião:
 
 Temos dois provedores que atendem o prédio, são eles VEC e R2.
 
-- https://www.vectelecom.com.br/
+- https://skill.net.br/abc/
 - https://www.site.r2telecom.com.br
 
-A VEC oferece melhores velocidades de UPLOAD, IP Fixo e te dá acesso ao modem se você solicitar.
+A Skillnet oferece melhores velocidades de UPLOAD, IP Fixo e te dá acesso ao modem se você solicitar.
 
-A R2 não dá acesso ao modem, não tem IP Fixo e suas velocidades de UPLOAD são inferiores da VEC.
+A R2 não dá acesso ao modem, não tem IP Fixo e suas velocidades de UPLOAD são inferiores .
 
 As velocidades de DOWNLOAD são equivalentes.
 
-Ambos funcionam bem, alguns moradores contratam ambas para ter  redundância do LINK – vale a pena. (nós usamos)
+Ambos funcionam bem, alguns moradores contratam ambas para ter redundância do LINK – vale a pena. (nós usamos)
 
 Ambos entregam fibra, contudo, a fibra em alguns pontos é aérea e ocorrem rompimentos em temporais, isso é comum, infelizmente.
 
@@ -125,7 +125,13 @@ O supermercado Rio Verde também oferece uma padaria interna.
 
 Se você estiver animado(a) pode ir na Cidade Ocidental (cerca de 25 KM) nas padarias "Padre Cícero" e "Francisco", tem coisas bem em conta como paes Gourmet, queijos e kits que podem durar a semana toda, vale a pena e muita gente do prédio vai lá comprar quitutes para a semana.
 
+Nos Jardins Mangueira temos a padaria Pão Dourado
+
 Acesse a lista completa de [delivery](https://viahorizonte.life/docs/morador/delivery).
+
+### Padarias
+
+No jardim ABC temos 3 mercados pequenos, eles até quebram o galho, mas nós preferimos ir no Super Adega ou mercado Ideal nos Jardins Mangueiral, fica a dica!
 
 ### Lava jato
 

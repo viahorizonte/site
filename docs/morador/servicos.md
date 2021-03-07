@@ -13,7 +13,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
 #### Internet
 
-- Vec Telecom
+- Skillnet Telecom
 - R2 Telecom
 
 #### Telefone fixo
@@ -27,7 +27,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 
 #### Mini Mercado
 
-- Market4U
+- AlphaMarket
 
 #### Energia
 
@@ -46,3 +46,7 @@ Lista de serviços oferecidos dentro do Via Horizonte para seus moradores.
 #### Designer de Sobrancelhas e Manicure
 
 - Carolina Guimaraes, 1003-B
+
+#### Advocacia
+
+- Rodrigo 902-A

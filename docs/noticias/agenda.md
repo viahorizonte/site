@@ -9,7 +9,8 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/morador/agenda.
 
 #### 2021
 
-- Assembléia Geral Ordinária para eleição de nova direção
+- 20/03/2021 - Assembléia Geral Ordinária para eleição de nova direção
+- 16/01/2021 - AGE
 
 ### Agendas passadas
 
