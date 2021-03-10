@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Mercadinho 30/12/20
+title: Informe Mercadinho
 tags:
   - informes
 ---

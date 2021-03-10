@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Mercado 01/11/21
+title: Informe Mercado
 tags:
   - informes
 ---

@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Reparo Interfones 11/12
+title: Informe Reparo Interfones
 tags:
   - informes
 ---

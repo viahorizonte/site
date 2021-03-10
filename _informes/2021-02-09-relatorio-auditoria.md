@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Auditoria Externa 09/02/21
+title: Informe Auditoria Externa
 tags:
   - informes
 ---

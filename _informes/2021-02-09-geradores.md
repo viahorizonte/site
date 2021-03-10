@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Manutenção Geradores 09/02/21
+title: Informe Manutenção Geradores
 tags:
   - informes
 ---

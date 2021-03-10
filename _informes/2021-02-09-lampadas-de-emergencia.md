@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Informe Sistema de Emergência 09/02/21
+title: Informe Sistema de Emergência
 tags:
   - informes
 ---

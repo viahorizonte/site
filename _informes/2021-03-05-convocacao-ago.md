@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Convocação AGO 05/03/21
+title: Convocação AGO
 tags:
   - informes
 ---
