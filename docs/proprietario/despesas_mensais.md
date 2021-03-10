@@ -9,6 +9,10 @@ edit_link: https://github.com/viahorizonte/site/edit/master/docs/proprietario/de
 
 Anexando o demonstrativo de despesas mensais que nós moradores recebemos por e-mail.
 
+### 2021
+
+- Download do demonstrativo de [Janeiro](/files/DEMONSTRATIVO_FINANCEIRO_01_2021.pdf).
+
 ### 2020
 
 - Download do demonstrativo de [Dezembro](/files/DEMONSTRATIVO_FINANCEIRO_12_2020.pdf).

@@ -1,6 +1,6 @@
 ---
 layout: informe
-title: Assembleia Geral Extraordinária 16/01
+title: Assembleia Geral Extraordinária 11/01/21
 tags:
   - informes
 ---

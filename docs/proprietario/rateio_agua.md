@@ -17,6 +17,17 @@ Essas informações são recebidas por e-mail, vindas da administração atual d
 
 ### 2021
 
+#### FEVEREIRO/2021
+
+| Item                        | Valor         |
+|:----------------------------| -------------:|
+| Total da fatura             | R$ 21.758,78  |
+| Previsto no Orçamento 19/20 | R$  9.500,00  |
+| Valor a ratear              | R$ 12.258,78  |
+
+Download da conta de água [Janeiro](/files/FATURA_SANEAGO_02_2021.pdf).
+
+
 #### JANEIRO/2021
 
 | Item                        | Valor         |
