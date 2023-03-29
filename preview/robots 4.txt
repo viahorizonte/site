@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/gcarvalho/Library/Mobile Documents/com~apple~CloudDocs/Documents/Publii/sites/via-horizonte/preview/sitemap.xml

@@ -1,0 +1,950 @@
+[
+    {
+        "name": "Main",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1622421415567,
+                "label": "Sobre",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1632312434708,
+                        "label": "Edifício Via Horizonte",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622434941230,
+                                "label": "Nosso prédio",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 6,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622435049418,
+                                "label": "Administração do Via Horizonte",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 8,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622435063137,
+                                "label": "Conselho do Via Horizonte",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 9,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1632256261199,
+                        "label": "Alphaville",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622434966755,
+                                "label": "Complexo Alphaville BSB",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 7,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1625609765090,
+                                "label": "Associação Geral",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 42,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622451933012,
+                        "label": "Este site",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 19,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1680101234880,
+                "label": "Fotos",
+                "title": "",
+                "type": "post",
+                "target": "_blank",
+                "rel": "",
+                "link": 50,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1622421063886,
+                "label": "Morador",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1632357862380,
+                        "label": "Atendimento",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1623900043363,
+                                "label": "Solicitar reparos",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 36,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1623900244711,
+                                "label": "Registrar Ocorrências",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 37,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1680104711025,
+                                "label": "Enviar sugestões",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 56,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1643792620615,
+                                "label": "Falar com a administração",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 8,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1643792580063,
+                                "label": "Falar com o conselho",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 9,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622448188121,
+                        "label": "Mudança",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622432854758,
+                                "label": "Quero mudar, oq preciso saber?",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 1,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622434184161,
+                                "label": "Medidas do prédio",
+                                "title": "",
+                                "type": "separator",
+                                "target": "_self",
+                                "rel": "",
+                                "link": "",
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": [
+                                    {
+                                        "id": 1622434192654,
+                                        "label": "Escadas",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 35,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1622434202886,
+                                        "label": "Elevadores",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 34,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1622432920748,
+                                "label": "Cheguei, e agora?",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 2,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433096847,
+                                "label": "Posso usar os clubes?",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 47,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622484001110,
+                        "label": "Normas",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622422508676,
+                                "label": "Regimento Interno",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 10,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433222098,
+                                "label": "Convenção do via",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 11,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1632256152476,
+                        "label": "Dicas",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622433037983,
+                                "label": "Covid",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 3,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622484806659,
+                                "label": "Conduta",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 27,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433252021,
+                                "label": "Conduta com Pets",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 45,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1631206740718,
+                                "label": "Recebendo Hóspedes",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 48,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1632256007876,
+                                "label": "Lidando com Morcegos",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 49,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1632343221992,
+                                "label": "Vacinação e posto de saúde ABC",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 51,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622433367575,
+                        "label": "Como funciona?",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622434760970,
+                                "label": "Entrega de correspondência",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 20,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622483430116,
+                                "label": "Entrega de grandes objetos",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 21,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622483406693,
+                                "label": "Entrega de comida",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 22,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622434856778,
+                                "label": "Garagem",
+                                "title": "",
+                                "type": "frontpage",
+                                "target": "_self",
+                                "rel": "",
+                                "link": "empty",
+                                "cssClass": "",
+                                "isHidden": true,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622433561749,
+                        "label": "Padrões",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622433693046,
+                                "label": "Armário do estacionamento",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 38,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433330830,
+                                "label": "Fechamento da varanda",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 39,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433705981,
+                                "label": "Tela de proteção",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 40,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622433774988,
+                                "label": "Tela Mosquiteira",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 41,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622433263935,
+                        "label": "Coleta do Lixo",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 24,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622450653312,
+                        "label": "Ramais",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 17,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1625615467492,
+                        "label": "Segurança Externa",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 5,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1622421111765,
+                "label": "Proprietário",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1622434554051,
+                        "label": "Unidades",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622434067737,
+                                "label": "Quero vender, oq preciso saber?",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 43,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622434056465,
+                                "label": "Quero comprar, oq preciso saber?",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 44,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622434086223,
+                        "label": "Sobre a VIA",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 26,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622434418807,
+                        "label": "Sobre Obras",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 25,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1622433912256,
+                "label": "Serviços",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1645030960338,
+                        "label": "Telefonia Móvel",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 55,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622433977786,
+                        "label": "Internet",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 14,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622433930987,
+                        "label": "Comida",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622764875679,
+                                "label": "Direto no via!",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 32,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622765137725,
+                                "label": "Externo",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 15,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1622433943475,
+                        "label": "Prestadores",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 12,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622433998227,
+                        "label": "Moradores",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 16,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622450447732,
+                        "label": "Farmácias",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 13,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622766044771,
+                        "label": "Unidades de saúde",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 33,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1622434284329,
+                "label": "Docs",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1622434325470,
+                        "label": "Atas",
+                        "title": "",
+                        "type": "frontpage",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "empty",
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1622434447764,
+                        "label": "Manual do Proprietário",
+                        "title": "",
+                        "type": "external",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "https://viahorizonte.life/media/files/VIA_MANUAL_DO_PROPRIETARIO.pdf",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622499058056,
+                        "label": "Via Memorial Descritivo",
+                        "title": "",
+                        "type": "external",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "https://viahorizonte.life/media/files/VIA_MEMORIAL_DESCRITIVO.pdf",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622434503732,
+                        "label": "Cartilha Via Horizonte",
+                        "title": "",
+                        "type": "external",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "https://viahorizonte.life/media/files/VIA_HORIZONTE_MANUAL_DE_VENDAS.pdf",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622498973974,
+                        "label": "Normas",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1622498460966,
+                                "label": "Regimento Digitalizado",
+                                "title": "",
+                                "type": "external",
+                                "target": "_self",
+                                "rel": "",
+                                "link": "https://viahorizonte.life/media/files/VIA_CONVENCAO_DO_CONDOMINIO_2017_09_03.pdf",
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1622498283167,
+                                "label": "Convenção Digitalizada",
+                                "title": "",
+                                "type": "external",
+                                "target": "_self",
+                                "rel": "",
+                                "link": "https://viahorizonte.life/media/files/VIA_REGIMENTO_INTERNO.pdf",
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1622746177617,
+                "label": "Grupos",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": true,
+                "items": [
+                    {
+                        "id": 1622746192157,
+                        "label": "Via",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 28,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622746211343,
+                        "label": "Externos",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 30,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1622747064884,
+                        "label": "Cervejeiros",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 31,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1622421387600,
+                "label": "Notícias",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": true,
+                "items": []
+            },
+            {
+                "id": 1622435088329,
+                "label": "Contato",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 18,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]
