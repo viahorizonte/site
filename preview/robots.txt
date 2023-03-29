@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:////Users/gutocarvalho/Documents/Publii/sites/via-horizonte/preview/sitemap.xml
